@@ -1,0 +1,10 @@
+fail-if-warnings       : true
+filters:
+- pandoc-internalrefs
+- pandoc-citeproc
+bibliography           : 'biblio.bib'
+default-image-extension: '.jpg'
+file-scope             : true
+resource-path:
+- '.'
+- 'fig'
