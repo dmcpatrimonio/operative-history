@@ -54,7 +54,6 @@ description: |
   clarify these theoretical conflicts yet show the way forward for
   'operative' historiography and typological theory in the Italian
   school.
-nocite:
 suppress-bibliography  : true
 reference-section-title: 'References'
 number-sections        : false
@@ -109,6 +108,77 @@ engagement with one another's theories [As evidenced by
 @murro:2019storia]; it also obscures the claim put forward by each one
 of them to a systematic representation of and agency on the urban
 environment.
+
+The confrontation of Tafuri's critical underpinnings for an autonomous
+history of architecture with Muratori's and Rossi's methods for the
+operative leveraging of historical research in design exposes the
+overarching conflicts in world view among them, of course, but beneath
+these differences certain fundamental affinities show through,
+evidencing how they partake in the major intellectual and political
+themes of their age. These affinities have not, however, been carried on
+by their disciples and interpreters as clearly as their differences.
+This has caused Muratori's, Rossi's, and Tafuri's work to become
+somewhat abstract and disconnected from the role they all expected their
+critique to play in the transformation of urban planning. In other
+words, what they have in common is they intended not so much to propose
+a general theory of architectural form---for Muratori was sceptical
+of formal rules, Rossi was sceptical of generalisations, and Tafuri was
+sceptical of theorising---, but rather to look at the contemporary city
+as a *process* to be acted upon politically and technically.
+
+In light of their common goal of contributing critically to processes
+rather than objects, one can begin to draw a clearer picture of their
+affinities and conflicts, putting the acrid debates of the 1960s and 70s
+in the long-term perspective of how their legacies have been, and could
+be, carried on throughout the evolving ideological configurations of the
+architectural profession. To this end, the study of the direct 'lineage'
+of the second and third generation of Muratori's disciples, as well as
+of other practitioners and scholars influenced by Rossi's poetics of the
+city and by Tafuri's critical historiography, offers an overview of what
+rigorous architectural scholarship can look like in the present day.
+This loosely defined group of architects may be, for starters, grouped
+in a loosely defined 'Italian school of typology'.
+
+This 'school' shall be defined, initially, by the shared scope of
+objects and methods pertaining to the architectural discipline, reaching
+back to the superimposition of idealist philosophy and socialist
+politics that was pervasive in post-war Italian architectural circles.
+This disciplinary framing understands architecture to be not a specific
+set of objects, real or potential, but a process of bringing about
+change in the urban fabric; conversely, history is not envisaged as a
+coherent narrative to be 'found', but as a collection of fragments of
+which to make sense in a piecemeal fashion.
+
+On top of this common ground, providing a common understanding of the
+profession's role in the contemporary world, a second level of analysis
+reveals an implicit awareness of the conflicts between historiographic
+critique, ever bent on scattering and reassembling the fragments in
+infinite ways, and operative synthesis, demanding agreement, if limited
+and provisional, on reconstructed 'memories' of the urban process to be
+acted upon.
+
+The cracks developing from these conflicts become rifts, on a third
+level, between the 'modernist' disciples of Muratori---among them
+Gianfranco Caniggia, Gian Luigi Maffei, Giancarlo Cataldi, and Giuseppe
+Strappa--- and the 'traditionalists' loosely inspired by the figurative
+character of Rossi's later work. This cleaving of the 'Italian school'
+hinges on the decomposition of the urban 'organism', in the work of
+living practitioners, according to diverging hierarchies of abstract and
+figurative elements. This conflict exposes conceptual weaknesses in the
+theories supporting typological design, in terms of the choices
+practitioners make when appropriating and making sense of urban
+fragments.
+
+Thus, the analysis turns back for a final look at how critical
+historiography addresses the shortcomings of operativity. By looking at
+the interaction of historical scholarship and design practice in the
+work of architects who combine both activities, the theoretical
+assumptions linking both fields become clear. The typological
+contradictions between the 'historic city' strictly
+defined---preindustrial urbanism---and the urban fabric of the late
+nineteenth and early twentieth centuries appears as an unresolved
+conflict in the methods and judgements of 'modernists' from the
+Muratorian school and of traditionalists alike.
 
 
 Architecture as process, history as fragments
