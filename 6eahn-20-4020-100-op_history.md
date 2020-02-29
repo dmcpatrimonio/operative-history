@@ -17,10 +17,10 @@ Introduction
 ============
 
 
-Disciplinary framing of architecture in post-war Italy
+Disciplinary Framing of Architecture in Post-war Italy
 ======================================================
 
-Concepts and methods
+Concepts and Methods
 --------------------
 
 - 2 kinds of historicism: Avant-garde teleology of history and Crocean
@@ -32,7 +32,7 @@ Concepts and methods
   always derived from the former, when it is admitted.
 
 
-Domain of architecture
+Domain of Architecture
 ----------------------
 
 - Building a structure and building the city as recursive processes;
@@ -41,26 +41,29 @@ Domain of architecture
 - Extant city as main object, infill as main operation.
 
 
-Historicist criticism and operative synthesis
+Historicist Criticism and Operative Synthesis
 =============================================
 
-Tools of architectural historiography
+Tools of Architectural Historiography
 -------------------------------------
 
-- History vs. memory
+- Historiography rejects *a priori* categorisations, or even rejects
+  them at all: consequently restricts theorisation;
+- History is no tool for contemporary design because imitation is
+  anathema, but can shed light on more general concerns.
 
 
-Memory and the critical consciousness
--------------------------------------
+Collective Memory and the Critical Consciousness
+------------------------------------------------
 
 - On the ability of criticism to leverage the embodied knowledge of
   spontaneous consciousness.
 
 
-Typology, abstraction, and figuration
+Typology, Abstraction, and Figuration
 =====================================
 
-Typology and its conflicts
+Typology and Its Conflicts
 --------------------------
 
 - Does 'type' exist?
@@ -72,12 +75,12 @@ Traditionalism in Process
 -------------------------
 
 - From 'morality' to tangible objects;
+- Intrahistory and casticism;
 
 
-Operativeness in historical perspective
+Operativeness in Historical Perspective
 =======================================
 
-- Intrahistory and casticism;
 - Present reality is at the same time singular (yet apt to be
   contaminated by the artefacts of memory) and a collapsed state of
   all previous history.
