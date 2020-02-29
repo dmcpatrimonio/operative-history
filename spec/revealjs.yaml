@@ -1,6 +1,5 @@
 to           : "revealjs"
 standalone   : true
-# output-file  : "docs/pip19.html"
 slide-level  : 2
 file-scope   : true
 filters:
