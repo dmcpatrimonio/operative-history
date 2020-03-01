@@ -4,3 +4,6 @@
 [submodule "spec/styles"]
 	path = spec/styles
 	url = https://github.com/citation-style-language/styles.git
+[submodule "spec/locales"]
+	path = spec/locales
+	url = https://github.com/citation-style-language/locales.git

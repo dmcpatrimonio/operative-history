@@ -4,10 +4,18 @@
 VPATH = lib
 vpath %.yaml .:spec
 vpath default.% lib/pandoc-templates
+DEFAULTS = defaults.yaml bib/biblio.bib
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+all : _book/6eahn-20-1065-operative_history.pdf _book/6eahn-20-1065-operative_history.docx
+
+_book/6eahn-20-1065-operative_history.pdf  : 1065-operative_history.md $(DEFAULTS)
+	pandoc --defaults spec/defaults.yaml -o $@ 1065-operative_history.md
+
+_book/6eahn-20-1065-operative_history.docx : 1065-operative_history.md $(DEFAULTS)
+	pandoc --defaults spec/defaults.yaml -o $@ 1065-operative_history.md
 
 # Install and cleanup {{{1
 # ===================

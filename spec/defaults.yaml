@@ -1,12 +1,14 @@
-filters:
-- pandoc-internalrefs
-- pandoc-citeproc
-fail-if-warnings        : True
-file-scope              : True
+fail-if-warnings        : true
+file-scope              : true
+standalone              : true
 default-image-extension : '.jpg'
+bibliography            : 'bib/biblio.bib'
+csl                     : 'spec/styles/chicago-fullnote-bibliography-with-ibid.csl'
+reference-links         : true
+reference-location      : 'block'
+filters:
+  - pandoc-xnos
+  - pandoc-citeproc
 resource-path:
-- .
-- fig
-bibliography           : 'biblio.bib'
-reference-links        : true
-reference-location     : 'block'
+  - .
+  - fig
