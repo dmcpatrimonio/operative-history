@@ -1,6 +1,5 @@
 # Global variables and setup {{{1
 # ================
-# Where make should look for things
 VPATH = _lib
 vpath %.yaml .:_spec
 vpath default.% .:_lib
@@ -14,8 +13,8 @@ PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" palazzo/pandoc-ebgaramond:$(PANDOC-VERSION)
 
-# Branch-specific targets and recipes {{{1
-# =================================== 
+# Targets and recipes {{{1
+# ===================
 _book/6eahn-20-1065-operative_history.pdf  : 1065-operative_history.md $(DEFAULTS) \
 	| chicago-fullnote-bibliography-with-ibid.csl
 	$(PANDOC/LATEX) -d _spec/defaults.yaml -o $@ $<
