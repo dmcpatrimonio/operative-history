@@ -12,8 +12,6 @@ JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
 	-u "`id -u`:`id -g`" palazzo/jekyll-pandoc:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
-PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
-	-u "`id -u`:`id -g`" palazzo/pandoc-ebgaramond:$(PANDOC-VERSION)
 
 # Targets and recipes {{{1
 # ===================
