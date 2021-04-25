@@ -17,14 +17,15 @@ PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 # ===================
 Palazzo_P.docx : paper.md $(DEFAULTS) reference.docx \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
-	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
+	@$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
+	@echo "$< > $@."
 
 %.docx : %.md $(DEFAULTS) reference.docx \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 
 _site :
-	@test -e $@ && cd $@ && git pull || \
+	@cd $@ && git pull || \
 		git clone -b gh-pages --depth=1 \
 		git@github.com:dmcpatrimonio/tipo_ecletismo.git $@
 	@$(JEKYLL/PANDOC) jekyll build
