@@ -1,7 +1,7 @@
 ---
 title   : "The death and life of 'operative' history"
 subtitle: "Dialogues between historiography and design theory in contemporary Italy"
-date    : "EAHN 2020"
+date    : "EAHN 2021"
 author  : "Pedro Paulo Palazzo[^aff]"
 affiliation: >
   Visiting scholar at the Università degli Studi di
@@ -71,13 +71,7 @@ description: |
   school.
 suppress-bibliography  : true
 reference-section-title: 'References'
-notes-after-punctuation: true
-number-sections        : false
 lang                   : en-GB
-xnos-caption-separator : colon
-xnos-cleveref          : true
-xnos-capitalise        : true
-xnos-number-by-section : false
 ---
 
 ![Gianfranco Caniggia. Typological analysis plate of the City of Como, 1963.

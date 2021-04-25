@@ -1,38 +1,50 @@
-# Global variables {{{1
+# Global variables and setup {{{1
 # ================
 # Where make should look for things
-VPATH = lib
-vpath %.yaml .:spec
-vpath default.% lib/pandoc-templates
-DEFAULTS = defaults.yaml bib/biblio.bib
+VPATH = _lib
+vpath %.yaml .:_spec
+vpath default.% .:_lib
+
+JEKYLL-VERSION := 4.2.0
+PANDOC-VERSION := 2.12
+JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
+	-u "`id -u`:`id -g`" palazzo/jekyll-pandoc:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
+PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
+	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
+PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
+	-u "`id -u`:`id -g`" palazzo/pandoc-ebgaramond:$(PANDOC-VERSION)
 
 # Branch-specific targets and recipes {{{1
-# ===================================
+# =================================== 
+_book/6eahn-20-1065-operative_history.pdf  : 1065-operative_history.md $(DEFAULTS) \
+	| chicago-fullnote-bibliography-with-ibid.csl
+	$(PANDOC/LATEX) -d _spec/defaults.yaml -o $@ $<
 
-all : _book/6eahn-20-1065-operative_history.pdf _book/6eahn-20-1065-operative_history.docx
+_book/6eahn-20-1065-operative_history.docx : 1065-operative_history.md $(DEFAULTS) \
+	| chicago-fullnote-bibliography-with-ibid.csl
+	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 
-_book/6eahn-20-1065-operative_history.pdf  : 1065-operative_history.md $(DEFAULTS)
-	pandoc --defaults spec/defaults.yaml -o $@ 1065-operative_history.md
+_site :
+	@test -e $@ && cd $@ && git pull || \
+		git clone -b gh-pages --depth=1 \
+		git@github.com:dmcpatrimonio/tipo_ecletismo.git $@
+	@$(JEKYLL/PANDOC) jekyll build
 
-_book/6eahn-20-1065-operative_history.docx : 1065-operative_history.md $(DEFAULTS)
-	pandoc --defaults spec/defaults.yaml -o $@ 1065-operative_history.md
+_csl/%.csl : _csl
+	@echo "Checking out $@..."
+	@cd _csl && git checkout master -- $@
+	@echo "Checked out $@."
 
 # Install and cleanup {{{1
 # ===================
-# `make install` copies various config files and hooks to the .git
-# directory and sets up standard empty directories.
-.PHONY : install
-install :
-	-mkdir _share
-	-mkdir fig
-	rsync -aq .install/ .git/
-	git submodule update --init
+_csl :
+	@cd $@ && git pull || \
+		git clone --depth=1 --filter=blob:none --no-checkout \
+		https://github.com/citation-style-language/styles.git \
+		$@
 
-# `make clean` will clear out a few standard folders where only compiled
-# files should be. Anything you might have placed manually in them will
-# also be deleted!
 .PHONY : clean
 clean :
-	-rm -r _book/* _site/*
+	-rm -r _book/* _site _csl
 
-# vim: set foldmethod=marker :
+# vim: set foldmethod=marker shiftwidth=2 tabstop=2 :

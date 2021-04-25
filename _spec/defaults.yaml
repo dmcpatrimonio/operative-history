@@ -2,13 +2,14 @@ fail-if-warnings        : true
 file-scope              : true
 standalone              : true
 default-image-extension : '.jpg'
-bibliography            : 'bib/biblio.bib'
-csl                     : 'spec/styles/chicago-fullnote-bibliography-with-ibid.csl'
+bibliography            : '_biblio.bib'
+cite-method             : 'citeproc'
+csl                     : '_csl/chicago-fullnote-bibliography-with-ibid.csl'
 reference-links         : true
 reference-location      : 'block'
 filters:
-  - pandoc-xnos
-  - pandoc-citeproc
+  - pandoc-crossref
+  - citeproc
 resource-path:
   - .
-  - fig
+  - figures
