@@ -114,7 +114,7 @@ influenced by Rossi's poetics of the city and by Tafuri's critical
 historiography, offers an overview of what rigorous architectural
 scholarship can look like in the present day. This loosely defined group
 of architects may be, for starters, grouped in an 'Italian school of
-typology' of sorts.
+typology'.
 
 This 'school' shall be defined, initially, by the shared scope of
 objects and methods pertaining to the architectural discipline, reaching
@@ -167,6 +167,22 @@ traditionalists alike [@tagliaventi:2006european18].
 
 # Architecture as process, history as fragments #
 
+Where Tafuri, Muratori, and Rossi all stand together (against Zevi).
+
+First, we discuss the difference between the practice of architecture
+and architectural history, according to Tafuri. For this, we have to
+agree that the built environment is an object (artifact = historical
+source) that provides evidence of a process (urban facts = reconstructed
+historical narrative). History makes a critique (analysis) that results
+in a necessarily fragmentary narrative, whereas design makes a product
+(synthesis) that must strive to be a whole solution to its problem.
+
+The historical narrative is necessarily a fragment because it is limited
+by the survival of sources and their provisional interpretation.
+Architectural history requires, according to Tafuri, some form of
+disciplinary training; nevertheless, it is purely a form of history, not
+a form of (making) architecture.
+
 - Concepts and methods
   - 2 kinds of historicism: Avant-garde teleology of history and Crocean
     'philosophy as history';
@@ -177,11 +193,31 @@ traditionalists alike [@tagliaventi:2006european18].
     always derived from the former, when it is admitted.
 - Domain of architecture
   - Building a structure and building the city as recursive processes;
-  - Abandon view of city and territory as artefacts in favour of
-    processes;
   - Extant city as main object, infill as main operation.
 
 # Historicist criticism and operative synthesis #
+
+This is where Muratori and Rossi diverge from Tafuri.
+
+Design cannot claim historical legitimacy, according to Tafuri, because
+this is construed after the fact by historians, therefore Zevi is wrong
+to assert a claim he is on the one true path of historical development.
+Tafurian doxa extends this to a theological dogma stating not only that
+one may not claim to be the correct outcome of history, but also that
+one may not claim to reconstruct historical processes in design. Because
+historical knowledge is always provisional, such a design would
+inevitably be proven "wrong" in time, and is therefore a futile
+exercise.
+
+Rossi and Muratori claim there is something objectively valuable in
+history that can and should be reclaimed through memory (Rossi) or
+through critique (Muratori), even though they are subject to future
+change. This value lies in conceptual or perceptual continuity with the
+existing built environment, but which is which? Muratori claims to be
+philosophical, but makes things that are tangibly mimetic; Rossi claims
+to look at the urban form, but distills it into abstractions in his
+early works. Typology is the mental framework supporting this
+reconstruction.
 
 - Tools of architectural historiography
   - History vs. memory
@@ -190,6 +226,33 @@ traditionalists alike [@tagliaventi:2006european18].
     spontaneous consciousness.
 
 # Typology, abstraction, and figuration #
+
+This is where the Muratorians diverge from the later Rossi and the
+traditionalists.
+
+Both Rossi and the first generation of Muratorian architects (Caniggia
+and Paolo Marzot) use abstraction to signify the reconstruction of
+history is partial.
+
+Muratori claims to reconstruct objectively the historical process of
+urban generation and, furthermore, to make a critical reconstruction of
+spontaneous consciousness where it went missing. His disciples' doxa
+makes an implicit claim that only the street layout, land subdivision
+and general building envelope can legitimately be made in continuity
+with the historical process, whereas building construction and therefore
+visual cues such as ornament have been irrevocably disrupted by modern
+technology and must not bear any resemblance to traditional forms.
+
+Rossi claims to leverage 'memory' as the current state of the awareness
+of history in any given context. Because memory is fragmentary, the
+design resulting from this operation of memory is itself a fragment. At
+first, the incomplete nature of memory is made palpable through formal
+abstraction and lack of detailing; later, Rossi incorporates figurative
+ornament (classical or postmodern). The abstract identity carried
+through memory is primarily supported by figurative elements in
+Tagliaventi's work. This results in 'garden city' perimeter blocks or
+courtyard compounds favouring visual cues over the abstract
+infrastructure of street layout and land subdivision.
 
 - Typology and its conflicts
   - Does 'type' exist?
