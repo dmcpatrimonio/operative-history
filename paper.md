@@ -38,8 +38,7 @@ number-sections        : false
 lang                   : en-GB
 ---
 
-Introduction
-============
+# Introduction #
 
 The struggle for rigour in architectural scholarship in post-war Italy
 resulted in an engaging and diverse body of argumentative and exemplary
@@ -168,66 +167,40 @@ appears as an unresolved conflict  in the methods and judgements of
 'modernists' from the Muratorian school [@strappa:1989tradizione] and of
 traditionalists alike [@tagliaventi:2006european18].
 
+# Architecture as process, history as fragments #
 
-Architecture as process, history as fragments
-=============================================
+- Concepts and methods
+  - 2 kinds of historicism: Avant-garde teleology of history and Crocean
+    'philosophy as history';
+  - Drops stylistic analysis in favour of 'elective affinities' of
+    artists and works with their contemporary context;
+  - 'Metodologia dell'elenco' in both historiography and design;
+  - Primacy of historical knowledge over normative theory, the latter
+    always derived from the former, when it is admitted.
+- Domain of architecture
+  - Building a structure and building the city as recursive processes;
+  - Abandon view of city and territory as artefacts in favour of
+    processes;
+  - Extant city as main object, infill as main operation.
 
-Concepts and methods
---------------------
+# Historicist criticism and operative synthesis #
 
-- 2 kinds of historicism: Avant-garde teleology of history and Crocean
-  'philosophy as history';
-- Drops stylistic analysis in favour of 'elective affinities' of
-  artists and works with their contemporary context;
-- 'Metodologia dell'elenco' in both historiography and design;
-- Primacy of historical knowledge over normative theory, the latter
-  always derived from the former, when it is admitted.
+- Tools of architectural historiography
+  - History vs. memory
+- Memory and the critical consciousness
+  - On the ability of criticism to leverage the embodied knowledge of
+    spontaneous consciousness.
 
+# Typology, abstraction, and figuration #
 
-Domain of architecture
-----------------------
+- Typology and its conflicts
+  - Does 'type' exist?
+  - Scales of typology: space, structure, ornament;
+  - Typological process is a form of historicism.
+- Traditionalism in Process
+  - From 'morality' to tangible objects;
 
-- Building a structure and building the city as recursive processes;
-- Abandon view of city and territory as artefacts in favour of
-  processes;
-- Extant city as main object, infill as main operation.
-
-
-Historicist criticism and operative synthesis
-=============================================
-
-Tools of architectural historiography
--------------------------------------
-
-- History vs. memory
-
-
-Memory and the critical consciousness
--------------------------------------
-
-- On the ability of criticism to leverage the embodied knowledge of
-  spontaneous consciousness.
-
-
-Typology, abstraction, and figuration
-=====================================
-
-Typology and its conflicts
---------------------------
-
-- Does 'type' exist?
-- Scales of typology: space, structure, ornament;
-- Typological process is a form of historicism.
-
-
-Traditionalism in Process
--------------------------
-
-- From 'morality' to tangible objects;
-
-
-Operativeness in historical perspective
-=======================================
+# Operativeness in historical perspective #
 
 - Intrahistory and casticism;
 - Present reality is at the same time singular (yet apt to be
@@ -251,9 +224,7 @@ Operativeness in historical perspective
   to make *the whole* coherent and imageable at a single point of
   intervention.
 
-
-Conclusion
-==========
+# Conclusion #
 
 [^aff]: Visiting scholar at the Università degli Studi di Roma « Tor
   Vergata » department of Civil and Computer Engineering and at the
