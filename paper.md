@@ -42,13 +42,12 @@ lang                   : en-GB
 
 The struggle for rigour in architectural scholarship in post-war Italy
 resulted in an engaging and diverse body of argumentative and exemplary
-writings by well-known authors such as Saverio Muratori (1910--1973),
-Aldo Rossi (1931--1997), and Manfredo Tafuri (1935--1994). Their often
+writings by well-known authors such as Saverio Muratori (1910--73),
+Aldo Rossi (1931--97), and Manfredo Tafuri (1935--94). Their often
 conflicting positions on the craft of architectural history, its
 relationship to design practice, and the establishment of disciplinary
 parameters for either history or design, set the foundational arguments
 for much of the international debate around these themes.
-
 The validity of extracting 'operative' knowledge from history for use in
 architectural and urban practice is one among many debates in which
 these architects engaged [@purini:2013saverio, 62]. This controversy is
@@ -57,7 +56,7 @@ either an art historical device or a theory of the architectural
 planning process.
 
 The Italian universe of typological studies is probably best known
-through Aldo Rossi's idiosyncratic definition of the concept, in *The
+from Aldo Rossi's idiosyncratic definition of the concept, in *The
 Architecture of the City,* as the study of 'constants' underlying urban
 and architectural 'facts' and discernible in them
 [@rossi:2006architettura, 33]. Saverio Muratori's contribution, on the
@@ -98,7 +97,7 @@ role they all expected their critique to play in the transformation of
 urban planning [@tafuri:1980sfera, 24]. In other words, what they have
 in common is they intended not so much to propose a general theory of
 architectural form---for Muratori was sceptical of formal rules, Rossi
-was sceptical of generalisations, and Tafuri was sceptical of
+was sceptical of generalizations, and Tafuri was sceptical of
 theorizing---, but rather to look at the contemporary city as a
 *process* to be acted upon politically and technically
 [@muratori:1959studiIX, 132].
@@ -127,7 +126,6 @@ a process of bringing about change in the urban fabric; conversely,
 history is not envisaged as a coherent narrative to be 'found', but as a
 collection of fragments of which to make sense in a piecemeal fashion
 [@zevi:1974architettura, 55].
-
 On top of this common ground, providing a shared understanding of the
 profession's role in the contemporary world, a second level of analysis
 reveals an implicit awareness of the conflicts between historiographic
