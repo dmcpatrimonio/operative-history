@@ -15,11 +15,14 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 
 # Targets and recipes {{{1
 # ===================
+Palazzo_P.docx : paper.md $(DEFAULTS) \
+	| chicago-fullnote-bibliography-with-ibid.csl
+
 _book/6eahn-20-1065-operative_history.pdf  : 1065-operative_history.md $(DEFAULTS) \
 	| chicago-fullnote-bibliography-with-ibid.csl
 	$(PANDOC/LATEX) -d _spec/defaults.yaml -o $@ $<
 
-_book/6eahn-20-1065-operative_history.docx : 1065-operative_history.md $(DEFAULTS) \
+%.docx : %.md $(DEFAULTS) \
 	| chicago-fullnote-bibliography-with-ibid.csl
 	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 

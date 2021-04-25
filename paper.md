@@ -1,8 +1,8 @@
 ---
-title   : "The death and life of 'operative' history"
-subtitle: "Dialogues between historiography and design theory in contemporary Italy"
-date    : "EAHN 2020 session 'Split Cultures/New Dialogues: Research in Architectural History and Theory'"
-author  : "Pedro Paulo Palazzo[^aff]"
+title   : "The Death and Life of 'Operative' History"
+subtitle: "Dialogues Between Historiography and Design Theory in Contemporary Italy"
+date    : "EAHN 2021 session 'Split Cultures/New Dialogues: Research in Architectural History and Theory'"
+author  : "Pedro P. Palazzo[^aff]"
 affiliation: >
   Visiting scholar at the Università degli Studi di
   Roma « Tor Vergata » department of Civil and Computer
@@ -10,6 +10,8 @@ affiliation: >
   in 2019--2020. Assistant professor at the University of Brasilia
   school of Architecture and Urbanism.
 abstract: |
+  ## Abstract ##
+
   The Italian debates of the post-war era regarding the possibility of
   an 'operative' history of architecture, revolving around Manfredo
   Tafuri's critique of Saverio Muratori's method of procedural typology
@@ -23,7 +25,9 @@ abstract: |
   pitfalls of giving an operative role to historical knowledge are ever
   present.
 
-  **Keywords:** Theory of architectural history, Italian school of
+  ## Keywords ##
+
+  Theory of architectural history, Italian school of
   procedural typology, New classicism, Manfredo Tafuri, Aldo Rossi
 keywords:
   - Theory of architectural history
