@@ -4,18 +4,15 @@ subtitle: "Dialogues Between Historiography and Design Theory in Contemporary It
 date    : "EAHN 2021 session 'Split Cultures/New Dialogues: Research in Architectural History and Theory'"
 author  : "Pedro P. Palazzo[^aff]"
 affiliation: >
-  Visiting scholar at the Università degli Studi di
-  Roma « Tor Vergata » department of Civil and Computer
-  Engineering and at the University of Coimbra Centre for Social Studies
-  in 2019--2020. Assistant professor at the University of Brasilia
-  school of Architecture and Urbanism.
+  Associate professor at the University of Brasilia school of
+  Architecture and Urbanism.
 abstract: |
   ## Abstract ##
 
   The Italian debates of the post-war era regarding the possibility of
-  an 'operative' history of architecture, revolving around Manfredo
+  an 'operative' history of architecture revolved around Manfredo
   Tafuri's critique of Saverio Muratori's method of procedural typology
-  and his ambiguous stance on Aldo Rossi's later work, provide the
+  and his ambiguous stance on Aldo Rossi's later work. They provide the
   theoretical background for a present-day 'Italian school' of
   typo-morphology. This 'school' is split between the modernist
   disciples of Muratori and the younger traditionalists, loosely
@@ -27,8 +24,8 @@ abstract: |
 
   ## Keywords ##
 
-  Theory of architectural history, Italian school of
-  procedural typology, New classicism, Manfredo Tafuri, Aldo Rossi
+  Theory of architectural history, Italian school of procedural
+  typology, New classicism, Manfredo Tafuri, Aldo Rossi.
 keywords:
   - Theory of architectural history
   - Italian school of procedural typology
@@ -36,7 +33,6 @@ keywords:
   - Manfredo Tafuri
   - Aldo Rossi
 suppress-bibliography  : true
-reference-section-title: 'References'
 notes-after-punctuation: true
 number-sections        : false
 lang                   : en-GB
@@ -104,7 +100,7 @@ urban planning [@tafuri:1980sfera, 24]. In other words, what they have
 in common is they intended not so much to propose a general theory of
 architectural form---for Muratori was sceptical of formal rules, Rossi
 was sceptical of generalisations, and Tafuri was sceptical of
-theorising---, but rather to look at the contemporary city as a
+theorizing---, but rather to look at the contemporary city as a
 *process* to be acted upon politically and technically
 [@muratori:1959studiIX, 132].
 
