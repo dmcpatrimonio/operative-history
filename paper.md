@@ -3,9 +3,6 @@ title   : "The Death and Life of 'Operative' History"
 subtitle: "Dialogues Between Historiography and Design Theory in Contemporary Italy"
 date    : "EAHN 2021 session 'Split Cultures/New Dialogues: Research in Architectural History and Theory'"
 author  : "Pedro P. Palazzo[^aff]"
-affiliation: >
-  Associate professor at the University of Brasilia school of
-  Architecture and Urbanism.
 abstract: |
   ## Abstract ##
 
@@ -37,6 +34,9 @@ notes-after-punctuation: true
 number-sections        : false
 lang                   : en-GB
 ---
+
+[^aff]: Associate professor at the University of Brasilia school of
+      Architecture and Urbanism.
 
 # Introduction #
 
@@ -225,10 +225,4 @@ traditionalists alike [@tagliaventi:2006european18].
   intervention.
 
 # Conclusion #
-
-[^aff]: Visiting scholar at the Università degli Studi di Roma « Tor
-  Vergata » department of Civil and Computer Engineering and at the
-  University of Coimbra Centre for Social Studies in 2019--2020. Assistant
-  professor at the University of Brasilia school of Architecture and
-  Urbanism.
 
