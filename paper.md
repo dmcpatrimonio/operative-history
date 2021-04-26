@@ -195,6 +195,88 @@ a form of (making) architecture.
   - Building a structure and building the city as recursive processes;
   - Extant city as main object, infill as main operation.
 
+<!-- -->
+
+* * * *
+
+Italy was a relative latecomer in the universe of formal architectural
+education, trailing not only the venerable French schools but also
+American universities by several decades [@casciato:2003italian62].
+Meanwhile, Italian philosophers from Vico to Croce had been pioneers in
+articulating problems of historical consciousness and their application
+to aesthetics [@croce:1904estetica]. This precedence of History over the
+pedagogical theorizing of Architecture reversed the emergence of a
+historical method from within French Beaux-Arts teaching
+[@talenti:2000histoire]. The disciplinary framing of Architecture in
+post-war Italy therefore gave a role to historical studies and
+scholarship at the very core of the debates shaping the teaching and
+practice of architects. For the same reason, this disciplinary framing
+was negotiated between the two dominant historicist forces of its age:
+on the one hand, the Modern movement with its Anglo-Germanic
+historiography and, on the other, the native Italian philosophy of
+history championed by Benedetto Croce's reading of the eighteenth
+century Idealist thinker, Giambattista Vico. Croce had been highly
+influential in education reforms enacted in Italy both before and during
+the Fascist regime. Croce's emphasis on art and individual expression,
+as well as his subsuming of Theory as a subset of History, became
+touchstones of twentieth century Italian Idealism.
+
+Bruno Zevi was one of the prominent Idealists in Italy. His early
+monograph *Architettura e storiografia*, published in 1950, was,
+nevertheless, naïvely derivative of the use of history as a
+justification for the avant-garde, and therefore reminiscent of
+Pevsner's and Giedion's militant agenda of the preceding decades.
+Despite this shortcoming, it already presented three major themes that
+were to concern the Italian articulation of the disciplinary scopes of
+Architecture and its historiography: first, the relationship between an
+individual artist or work and its broader context, both 'horizontally'
+among contemporary artists and the social context, and 'vertically',
+across the ages; second, the tension between the *doxa* that historic
+towns are supposed to express the *Zeitgeist* of some past age and the
+awareness that Italian cities are more like unintelligible palimpsests
+of continuous occupation and adaptation; and third, perhaps most
+importantly, the need to legitimize normative theory by constricting it
+to strict methodological bounds, while at the same time explaining all
+present and future developments in exclusively historical terms
+[@zevi:1974architettura, 12, 55, 128].
+
+Each of these three themes entailed corresponding attitudes towards
+Architecture, fueling certain disciplinary debates at least since the
+mid 1960s. To begin with, Zevi's brand of teleological Idealism rejected
+the Anglo-Germanic reliance on styles and movements as legitimate
+expressions of the *Zeitgeist*. Instead, he was concerned with broad
+historical movements only insofar as they demonstrated the drive towards
+the emancipation of individual consciousness; nowhere was this more
+evident than in the exhibition on Michelangelo Zevi curated with a young
+Paolo Portoghesi in 1964. In this program bound on liberating the
+individual from the 'context' as a deterministic constraint, Zevi
+refused to even admit of typology as an descriptive framework for
+singular works of architecture [@zevi:1965architettura1].
+
+That said, Zevi's rejection of collective movements as an interpretive
+scheme did not keep him from construing his own teleological scheme of
+architectural history: he equated formal organicism with aesthetic
+autonomy, while casting aside as inconsequential any facts not building
+up to modern organic architecture. Zevi would generally not even
+acknowledge the existing physical constraints imposed by the urban
+fabric as a relevant context for interpreting works of architecture.
+This normative inconsistency on Zevi's part was the foil against which
+Tafuri and Rossi would develop their own theories of architectural
+history. Albeit coming from opposing ideological camps, both leveraged
+the concept of 'fragment' as a way of making sense of the palimpsest
+that is the Italian built heritage. The issue at stake was the
+possibility of (re)composing coherent images---(re)presentations---from
+the myriad fragments left behind as historical sources. In his famous
+1966 book *The Architecture of the City*, Rossi portrayed the urban
+phenomenon as the present state of a continuous, yet heterogeneous,
+process of grafting changes onto a fabric that persists across the ages.
+Despite the incoherence of this 'creation born out of numerous and
+diverse moments of formation', the city can still, at any one moment, be
+grasped as 'a unit in its whole', because 'the possibility of reading
+the city in continuity lies in its pre-eminent formal and spatial
+character' [@rossi:1995architettura, 72; all translations by me unless
+noted otherwise].
+
 # Historicist criticism and operative synthesis #
 
 This is where Muratori and Rossi diverge from Tafuri.
@@ -219,11 +301,16 @@ to look at the urban form, but distills it into abstractions in his
 early works. Typology is the mental framework supporting this
 reconstruction.
 
+Their theories expose Modernism's (Tafuri's?) critical project as a
+failure to imbue critique with normative content and to assess the
+validity of that content.
+
 - Tools of architectural historiography
   - History vs. memory
 - Memory and the critical consciousness
   - On the ability of criticism to leverage the embodied knowledge of
-    spontaneous consciousness.
+    spontaneous consciousness (vs Moneo).
+- Social responsibility vs individual autonomy is a moral problem
 
 # Typology, abstraction, and figuration #
 
@@ -232,7 +319,10 @@ traditionalists.
 
 Both Rossi and the first generation of Muratorian architects (Caniggia
 and Paolo Marzot) use abstraction to signify the reconstruction of
-history is partial.
+history is partial. For them, 'crisis' of spontaneous typological
+process began with the self-consciously exotic vocabulary of eclecticism
+in the 1700s. Partake in Modernism's collectivist ethos against the
+individualism of bourgeois eclecticism.
 
 Muratori claims to reconstruct objectively the historical process of
 urban generation and, furthermore, to make a critical reconstruction of
