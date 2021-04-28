@@ -252,7 +252,6 @@ Paolo Portoghesi in 1964. In this program bound on liberating the
 individual from the 'context' as a deterministic constraint, Zevi
 refused to even admit of typology as an descriptive framework for
 singular works of architecture [@zevi:1965architettura1].
-
 That said, Zevi's rejection of collective movements as an interpretive
 scheme did not keep him from construing his own teleological scheme of
 architectural history: he equated formal organicism with aesthetic
@@ -260,22 +259,27 @@ autonomy, while casting aside as inconsequential any facts not building
 up to modern organic architecture. Zevi would generally not even
 acknowledge the existing physical constraints imposed by the urban
 fabric as a relevant context for interpreting works of architecture.
+
 This normative inconsistency on Zevi's part was the foil against which
-Tafuri and Rossi would develop their own theories of architectural
-history. Albeit coming from opposing ideological camps, both leveraged
-the concept of 'fragment' as a way of making sense of the palimpsest
-that is the Italian built heritage. The issue at stake was the
-possibility of (re)composing coherent images---(re)presentations---from
-the myriad fragments left behind as historical sources. In his famous
-1966 book *The Architecture of the City*, Rossi portrayed the urban
-phenomenon as the present state of a continuous, yet heterogeneous,
-process of grafting changes onto a fabric that persists across the ages.
-Despite the incoherence of this 'creation born out of numerous and
-diverse moments of formation', the city can still, at any one moment, be
-grasped as 'a unit in its whole', because 'the possibility of reading
-the city in continuity lies in its pre-eminent formal and spatial
-character' [@rossi:1995architettura, 72; all translations by me unless
-noted otherwise].
+Muratori, Tafuri and Rossi would develop their own theories of
+architectural history. Albeit coming from different ideological camps,
+they all leveraged the concept of 'fragment' as a way of making sense of
+the palimpsest that is the Italian built heritage. The issue at stake
+was the possibility of (re)composing coherent
+images---(re)presentations---from the myriad fragments left behind as
+historical sources. In his famous 1966 book *The Architecture of the
+City*, Rossi portrayed the urban phenomenon as the present state of a
+continuous, yet heterogeneous, process of grafting changes onto a fabric
+that persists across the ages. Despite the incoherence of this 'creation
+born out of numerous and diverse moments of formation', the city can
+still, at any one moment, be grasped as 'a unit in its whole', because
+'the possibility of reading the city in continuity lies in its
+pre-eminent formal and spatial character' [@rossi:1995architettura, 72;
+all translations by me unless noted otherwise].
+
+* * * *
+
+
 
 # Historicist criticism and operative synthesis #
 
@@ -311,6 +315,41 @@ validity of that content.
   - On the ability of criticism to leverage the embodied knowledge of
     spontaneous consciousness (vs Moneo).
 - Social responsibility vs individual autonomy is a moral problem
+
+<!-- -->
+
+* * * *
+
+The tension between the fragmentary nature of the city and its resulting
+coherence was, to Rossi, the embodiment of its physical 'memory', made
+possible by the law of persistence formulated by the French geographer,
+Marcel Poëte. Such persistence is driven, primarily, by embodied memory.
+This refers to those 'urban facts' that hold back the continuous process
+of urban transformation: monumental architecture at one end, and the
+enduring pattern of land subdivision and ownership at the other. When
+these factors are not at play, as in greenfield projects, the physical
+urban memory must then be replicated by means of reconstructed
+classifications present in human memory. Foremost among these
+classifications, in Rossi's theory, is the concept of type. Types are
+the 'nameable objects' put forward by Léon Krier
+[@krier:2009architecture, 29] and definite, recognizable urban spaces as
+formulated by Rob Krier [@krier:1991urban, 17].
+
+The typological approach posits *place* as the fundamental context
+bearing upon the act of designing.
+
+In his first writings, Tafuri acknowledged typological studies as a
+legitimate mode of 'operative' inquiry into a given historical context.
+
+This posited an interpretation of the concept of 'fragment' as a
+legitimate starting point for spatial (re)construction. Early on,
+however, he shifted to a more strictly Marxist concept of the city as
+product. This concept was famously articulated by Henri Lefebvre in his
+1968 book, *The Right to the City*. Lefebvre railed against the
+understanding of the city as space
+
+artefact that is both a reflection of the productive forces of its age
+and 
 
 # Typology, abstraction, and figuration #
 
@@ -350,6 +389,10 @@ infrastructure of street layout and land subdivision.
   - Typological process is a form of historicism.
 - Traditionalism in Process
   - From 'morality' to tangible objects;
+
+<!-- -->
+
+* * * *
 
 # Operativeness in historical perspective #
 
