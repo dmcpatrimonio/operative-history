@@ -19,13 +19,24 @@ twitter_username: p3palazzo
 github_username:  p3palazzo
 
 # Build settings {{{1
-theme: minima
+theme: tufte-pandoc-jekyll
 markdown: Pandoc
 pandoc:
   extensions:
     - defaults: "_spec/defaults.yaml"
+    - section-divs
 plugins:
+  - jekyll-coffeescript
   - jekyll-feed
-  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-pandoc
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
 exclude:
   - LICENSE
+  - Makefile
+keep_files:
+  - ".git"
