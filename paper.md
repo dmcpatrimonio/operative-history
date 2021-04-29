@@ -261,13 +261,44 @@ acknowledge the existing physical constraints imposed by the urban
 fabric as a relevant context for interpreting works of architecture.
 
 This normative inconsistency on Zevi's part was the foil against which
-Muratori, Tafuri and Rossi would develop their own theories of
+Muratori, Tafuri, and Rossi would develop their own theories of
 architectural history. Albeit coming from different ideological camps,
 they all leveraged the concept of 'fragment' as a way of making sense of
 the palimpsest that is the Italian built heritage. The issue at stake
 was the possibility of (re)composing coherent
 images---(re)presentations---from the myriad fragments left behind as
-historical sources. In his famous 1966 book *The Architecture of the
+historical sources. Zevi and Muratori both subscribed to the Crocean
+philosophy of History centred on the emergence of individual
+consciousness out of the primordial flow of collective processes. They
+saw these processes as retroactively deterministic, leading to a
+coherent picture of the present as the natural outcome of the historical
+process [@purini:2013saverio, 62]. Despite their common philosophical
+underpinning, however, Zevi and Muratori disagreed on the operative
+judgment to be drawn out of the historical critique. Muratori, on the
+one hand, took the arbitrary expression of artistic freedom championed
+by Zevi to be a major factor in the crisis of modern architecture
+leading to the post-war destruction of historic centres
+[@muratori:1959studiIX, 112]. Zevi, on the other hand, denounced
+Muratori's taste for stripped classical forms and his case for the
+present validity of traditional urban forms as a revival of Fascist
+ideals.[^1]
+
+[^1]: This controversy, which also involved Tafuri as a student at the
+    University of Rome under both Zevi and Muratori, has been analyzed
+    in depth elsewhere, not the least by @portoghesi:2013saverio and
+    @leach:2006choosing. Muratori's early career was not exceptional
+    among the many architects eager to get commissions in the Fascist
+    building programme, though it looks much less commendable in
+    comparison to Zevi's self-exile under the racial laws and to
+    Tafuri's active participation in the resistance. Despite Muratori
+    having been ostracised because of his lifelong commitment to
+    traditional forms, his theoretical stance never had anything to do
+    with Fascist monumentality or formalism. Tafuri himself, in his
+    later writings, never again levelled political charges against
+    Muratori, but kept to a strictly disciplinary debate, e.g. in
+    -@tafuri:1991gaia.
+
+In his famous 1966 book *The Architecture of the
 City*, Rossi portrayed the urban phenomenon as the present state of a
 continuous, yet heterogeneous, process of grafting changes onto a fabric
 that persists across the ages. Despite the incoherence of this 'creation
