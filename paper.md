@@ -96,34 +96,34 @@ typologies of both Muratori and Rossi.
 
 Let us start out with the scope of
 objects and methods pertaining to the architectural discipline, reaching
-back to the superimposition of idealist philosophy and socialist
+back to the superimposition of Idealist philosophy and socialist
 politics that was pervasive in post-war Italian architectural circles
 [@leach:2007manfredo, 47]. This disciplinary framing understood
 architecture to be not a specific set of objects, real or potential, but
-a process of bringing about change in the urban fabric; conversely,
+a process of bringing about change in the urban fabric. Conversely,
 history was not envisaged as a coherent narrative to be 'found', but as
-a collection of fragments to make sense of in a piecemeal fashion
-[@zevi:1974architettura, 55].
+a collection of fragments to make sense of in a piecemeal fashion.
+The 'methodology of collecting' fragments as an analogy for the study of
+architectural history had been made explicit by Bruno Zevi as early as
+1950 [@zevi:1974architettura, 55]. However, Zevi refused to relate this
+collection of fragments within any sort of physical context; the only
+process he would admit of was the emergence of the 'awareness of making
+architecture' itself [@zevi:1965architettura1, col. 616-7], that is, the
+rise of creative freedom, following Benedetto Croce's aesthetic theory
+[@croce:1947concetto, 194]. Zevi's 'operative critique' of architecture
+predicated on ever growing artistic originality failed, however, to
+respond to the urgent threat to historic centres posed by post-war
+development.
 
-The 'methodology of collecting' fragments in architectural history had
-been made explicit by Bruno Zevi as early as 1950
-[@zevi:1974architettura]. At that moment, the tension in Italy between
-acknowledging the historic built environment as a collection of
-fragments and attempting to extract operative judgments from historical
-knowledge was particularly pressing because of the destructive urban
-redevelopment then being carried out. Muratori and Rossi both started
-out trying to square the circle in deriving a general normative theory
-from the collection of historical fragments, while Tafuri pored over the
-disciplinary insertion of history within architecture.
-
-Muratori's method of 'operative history' was predicated on an Idealist
-understanding of the city as a thing in itself. He proposed in 1959 that
+Throughout the 1950s, Muratori developed another Idealist theory in
+response to this threat to the historic city. Against Zevi's concept of
+'operative critique', he proposed an 'operative history' in which
 the reality of the city as a piecemeal accumulation of interventions
-paradoxically proves its nature to be that of a coherent organism.
-Thus, even though historical and archaeological evidence will always be
+paradoxically proved its nature to be that of a coherent organism.
+Thus, even though historical and archaeological evidence would always be
 fragmentary, the coherent process of becoming that is the built
-environment can be understood through evidence based synthetic judgment
-[@muratori:1959studiIX, 111-2]. Aldo Rossi picked up where Muratori's
+environment could be understood through evidence based synthetic judgment
+[@muratori:1959studiIX, 111-2]. Aldo Rossi later picked up where Muratori's
 1959 article left off. In his 1966 book *The Architecture of the City*,
 Rossi thus portrayed the urban phenomenon as the present state of a
 continuous, yet heterogeneous, process of grafting changes onto a fabric
@@ -133,165 +133,247 @@ still, at any one moment, be grasped as 'a unit in its whole', because
 'the possibility of reading the city in continuity lies in its
 pre-eminent formal and spatial character' [@rossi:1995architettura, 72].
 
-Muratori's and Rossi's arguments sought to overcome the 'crisis' of
+Tafuri, a former student of both Muratori's and Zevi's, took issue with
+both of their brands of Idealism in his 1968 book, *Theories and History
+of Architecture*. To approach the concept of history as a collection of
+fragments, he used a Marxist lens predicating a clear-cut separation
+between the production of the built environment and its historiographic
+critique [@tafuri:1988teorie, 266]. Ostensibly, this was a plea for an
+architectural history endowed with 'positive skills' to counteract vapid
+theorizing [@tafuri:1991introduzione, 8]. In practice, it stemmed from
+his Marxist belief that the *practice* of architecture was, by the late
+twentieth century, well on its way to dissolving in the undifferentiated
+scope of 'planning' [@tafuri:1980sfera, 25]. Architecture, in Tafuri's
+view, became the stuff of history much in the same way Hegel had
+proclaimed Art belonged to the past [@hegel:1986aesthetik1, 25].
+
+Muratori's 'operative history' and Tafuri's 'critical history' both
+looked at the problem of the historical fragment as the starting point
+for a discussion of the built environment in a process of becoming, but
+they looked at it from opposite ends. Muratori took the fragments that
+made up the built environment as instances of *a priori* types, then
+sought to explain the overall coherence of the historic city as an
+outcome of the typological process [@muratori:1959studiIX, 103]. To
+Tafuri, on the other hand, it is the nature of the historical process
+that was given *a priori*: the deterministic advance of capitalist
+technocracy since the early Renaissance [@tafuri:1988teorie, 18]. The
+historian's task was then to fit, provisionally, the fragments of
+architecture's increasingly dead body onto an ever-changing picture of
+this advance [@tafuri:1977storico, 17].
+
+# Historiographic critique and operative synthesis #
+
+The difference between Muratori's and Tafuri's treatment of the
+historical process stemmed from their different philosophies of reality.
+In the Idealist theory developed by Muratori, the historic territory and
+its reconstructed past had real, if not immediately tangible, existence
+[@muratori:1978metodologia]. Tafuri's dialectic, on the other hand,
+handled the 'perpetual critique' of historical fragments
+[@tafuri:1980sfera, 4] as a way of exorcizing, so to speak, the very
+existence of a tangible reality.
+
+Tafuri wielded a historiographic 'scalpel' to 'pry open the compactness
+of historical constructs, problematize them, and prevent them from
+presenting themselves as "truths"' [@tafuri:1977storico, 17]. Exposing
+all ideology as contradictory enabled him to produce sophisticated
+analyses of Renaissance architectural theory [@stoppani:2010lhistoire,
+239]. Yet, when the only tool one wields is critique, everything ends up
+looking like a crisis. Tafuri's ideal contemporary architect was,
+therefore, perennially locked into this state of crisis: either a
+planner not designer, who would 'accept the transitional (and therefore
+ambiguous) role played nowadays by a dismembered and multifarious
+discipline' [@tafuri:1980sfera, 25], or a destroyer of conventional
+meaning such as the younger Aldo Rossi, who took the existing city 'as a
+mere pretext' and let architecture 'hang dangerously in the balance: its
+reality, never denied outright, but mischievously mingled with the
+unreal' [@tafuri:2002storia, 170].
+
+In contrast to Tafuri's argument for a permanent state of crisis
+[@biraghi:2005progetto], Muratori and Rossi sought to overcome the crisis of
 modernity, which is ultimately a disjunction between what society values
-and what it makes. This crisis, as posited by Muratori, lay in the
+and what it makes. This crisis, as described by Muratori, lay in the
 social desire to preserve the coherence of traditional territories in an
-age when the 'spontaneous' and incremental practice that gave rise to it
-had been lost to the 'self-conscious' and destructive practices of
-modern architecture [@muratori:1967civilta, 24]. To this end, the
-processes which gave rise to the mature traditional city ought not be
+age when the 'spontaneous' and incremental practice that hand given rise
+to them was being lost to the 'self-conscious' and destructive practices
+of modern architecture [@muratori:1967civilta, 24]. To this end, the
+processes that gave rise to the mature traditional city ought not be
 seen merely as products of their (past) ages. Rather, they were
 intrinsically legitimate and necessary means of carrying on the
 city-building process, *because* the city was by definition the outcome
 of such processes---and departing from them would entail building
-anything *but* a real city [@moschini:2013saverio, 176].
-
-# Historicist criticism and operative synthesis #
-
-In 1968, Tafuri's first major theoretical work, *Theories and History of
-Architecture*, took issue with this operative programme. He warned that
-a consistently historical critique of fragmentary sources would
-necessarily yield a fragmentary, provisional interpretation rather than
-a normative theory [@tafuri:1968teorie]. Against the Idealist
-interpretation of the historic city as a reality in itself, Tafuri
-assumed the Marxist stance of refusing to acknowledge any enduring
-coherence of the city through time. Because fragmentary evidence is the
-only knowable reality, Tafuri would go on to argue, all History can ever
-hope to achieve is a continuous scattering and reassembling the
-fragments in infinite narratives, among which no definite picture of the
-whole can ever emerge [@tafuri:1977storico, 17]. Consequently, any
-attempt to derive a normative design theory from historical knowledge
-was illegitimate and would be proven wrong in time [@tafuri:2002storia,
-80]. Following this reasoning through to the extremes, Tafuri would
-eventually hold that no normative theory of design can ever be construed
-on the basis of urban context or historical knowledge
-[@tafuri:1977progetto; later revisited in @tafuri:1980sfera].
-
-* * * *
+anything *but* a real city [@moschini:2013saverio, 176]. In turn,
+Muratori saw the crafting of a historical narrative as analogous to the
+process of city-building, inasmuch as either is only legitimate when it
+convincingly presents the structural reality of the historical process
+[@muratori:1959studiIX, 112].
 
 The tension between the fragmentary nature of the city and its resulting
 coherence was, to Rossi, the embodiment of its physical 'memory', made
-possible by the law of persistence formulated by the French geographer,
-Marcel Poëte. Such persistence is driven, primarily, by embodied memory.
+possible by Marcel Poëte's law of persistence in plan.
+Such persistence is driven, primarily, by embodied memory.
 This refers to those 'urban facts' that hold back the continuous process
 of urban transformation: monumental architecture at one end, and the
-enduring pattern of land subdivision and ownership at the other. When
-these factors are not at play, as in greenfield projects, the physical
-urban memory must then be replicated by means of reconstructed
-classifications present in human memory. Foremost among these
-classifications, in Rossi's theory, is the concept of type. Types are
-the 'nameable objects' put forward by Léon Krier
-[@krier:2009architecture, 29] and definite, recognizable urban spaces as
-formulated by Rob Krier [@krier:1991urban, 17].
+enduring pattern of land subdivision and ownership at the other
+[@rossi:1995architettura]. When these factors are not at play, as in
+greenfield projects, the physical urban memory must then be replicated
+by means of reconstructed classifications present in human memory. Both
+Muratori and Rossi thus claimed identity between the synthetic
+reconstruction of the process that has brought about the historic city
+as it exists and a normative theory of how best to build upon this
+process. For both Muratori and Rossi, the concept of type was central to
+this unified operation that both describes and directs city-building.
 
 # Typology, abstraction, and figuration #
 
-Rossi and Muratori claim there is something objectively valuable in
-history that can and should be reclaimed through memory (Rossi) or
-through critique (Muratori), even though they are subject to future
-change. This value lies in conceptual or perceptual continuity with the
-existing built environment, but which is which? Muratori claims to be
-philosophical, but makes things that are tangibly mimetic; Rossi claims
-to look at the urban form, but distills it into abstractions in his
-early works. Typology is the mental framework supporting this
-reconstruction.
+The concept of typology as a descriptive device in architectural history
+has been asserted by authors with a wide range of theoretical
+allegiances, from Argan and Moudon to Corona Martínez and Panerai
+[@argan:1966tipologia14; @moudon:1994getting; @corona:2009ensayo;
+@panerai:2012analyse]. However, its legitimacy as a mediation between
+the existing city (or a tradition more generally and abstractly
+understood) and contemporary design has been much more controversial;
+Moneo even claimed it would be intellectually impossible for
+contemporary architects to put themselves in the typological mindset
+[@moneo:1978typology]. Furthermore, Tafuri's put-down of Muratori's
+method had a point: if typology's aim was to overcome the crisis of
+modern development by building upon the process of becoming of the
+actual city, why was the breakdown of traditions itself not accepted as
+a legitimate part of this process? Muratori's outright rejection of this
+modern breakdown was no different, Tafuri argued, from the modernist
+rejection of tradition [@tafuri:2002storia, 78].
 
-and operative synthesis,
-demanding agreement, if limited and provisional, on reconstructed
-'memories' of the urban process to be acted upon critically
-[@stoppani:2010lhistoire, 220].
+To complicate matters further, Muratori's most prominent disciple,
+Gianfranco Caniggia (1933--87), subscribed quite explicitly to the
+modernist denunciation of eclecticism as inauthentic and commended the
+'noble aspirations' of the Modern movement [@caniggia:2008lettura, 24-5].
+Muratori's synthesis of an integral fabric of reality to be recomposed
+by contextual design was thus replaced with an analytical attitude that
+tried to isolate the 'structural' components of urban form while
+throwing out the 'recycling of forms cherry picked from the past'
+[@caniggia:1984moderno, 77]. This compromise nevertheless paid off
+politically, as Caniggia earned Tafuri's respect [@tafuri:2002storia,
+80] and Caniggia's own disciples have achieved a prestigious standing in
+today's scholarly field of urban morphology [@cataldi:2002saverio6].
+Since the last decade of the twentieth century, this 'Italian school of
+typology' has turned into a continuum ranging from strict adherents of
+Caniggia's 'modern' identity---Gian Luigi Maffei and Nicola Marzot
+[@marzot:2002study6]---to scholars studying eclectic planning as a
+legitimate step in the typological process---Giuseppe Strappa
+[@caniggia:1989permanenze]---to 'soft' traditionalists---Paolo Maretto
+and Giancarlo Cataldi [@maretto:1989verita; @cataldi:1989introduzione].
 
-The cracks developing from these conflicts become rifts, on a third
-level, between the 'modernist' disciples of Muratori
-[@caniggia:1984introduzione, 12]---among them Gianfranco Caniggia, Gian
-Luigi Maffei, Giancarlo Cataldi, and Giuseppe Strappa---and the
-'traditionalists' [@rosponi:2004new] or 'new classicists'
-[@papadakis:1990new]---such as Pier Carlo Bontempi, Gabriele
-Tagliaventi, and Cristiano Rosponi---loosely inspired by the figurative
-character of Rossi's later work. This cleaving of the 'Italian school'
-hinges on the decomposition of the urban 'organism', in the work of
-living practitioners, according to diverging hierarchies of abstract and
-figurative elements [An example of conflicting hierarchies is patent in
-the ancillary role ascribed to construction and detailing in
-@caniggia:1987progetto]. This conflict exposes conceptual weaknesses in
-the theories supporting typological design, in terms of the choices
-practitioners make when appropriating and making sense of urban
-fragments.
-
-This is where the Muratorians diverge from the later Rossi and the
-traditionalists.
-
-Both Rossi and the first generation of Muratorian architects (Caniggia
-and Paolo Marzot) use abstraction to signify the reconstruction of
-history is partial. For them, 'crisis' of spontaneous typological
-process began with the self-consciously exotic vocabulary of eclecticism
-in the 1700s. Partake in Modernism's collectivist ethos against the
-individualism of bourgeois eclecticism.
-
-Muratori claims to reconstruct objectively the historical process of
-urban generation and, furthermore, to make a critical reconstruction of
-spontaneous consciousness where it went missing. His disciples' doxa
-makes an implicit claim that only the street layout, land subdivision
-and general building envelope can legitimately be made in continuity
-with the historical process, whereas building construction and therefore
-visual cues such as ornament have been irrevocably disrupted by modern
-technology and must not bear any resemblance to traditional forms.
-
-Rossi claims to leverage 'memory' as the current state of the awareness
+A rift remained, nevertheless, between this academically minded group
+and another circle of architects that formed under the influence of Aldo
+Rossi's later work. Starting with the 1979 Teatro del Mondo project in
+the Venice Biennale, Rossi drifted towards a more figurative take on
+memory. The scandal generated by this project overshadowed Rossi's
+consistent stream of exploration into the use of classical details and
+the more complete reconstruction of a traditionalist idiom in his later
+works. Though Rossi wrote little from the mid 1970s on, his designs seem
+to have done away with the notion he previously held, that 'crisis' and
+a fragmented consciousness were the inescapable conditions of modernity.
+Rossi's work, even considering his written works, never achieved the all
+encompassing rules and procedures of the Muratorian school.
+Rossi claimed to leverage 'memory' as the current state of the awareness
 of history in any given context. Because memory is fragmentary, the
 design resulting from this operation of memory is itself a fragment. At
-first, the incomplete nature of memory is made palpable through formal
+first, the incomplete nature of memory was made palpable through formal
 abstraction and lack of detailing; later, Rossi incorporates figurative
 ornament (classical or postmodern). The abstract identity carried
-through memory is primarily supported by figurative elements in
-Tagliaventi's work. This results in 'garden city' perimeter blocks or
-courtyard compounds favouring visual cues over the abstract
-infrastructure of street layout and land subdivision.
+through memory became increasingly supported by figurative elements in
+Rossi's later works, setting him firmly apart from the Muratorian
+school.
 
-- Typology and its conflicts
-  - Does 'type' exist?
-  - Scales of typology: space, structure, ornament;
-  - Typological process is a form of historicism.
-- Traditionalism in Process
-  - From 'morality' to tangible objects;
+Rossi's example led a younger generation of 'traditionalists'
+[@rosponi:2004new] or 'new classicists' [@papadakis:1990new]---such as
+Pier Carlo Bontempi and Gabriele Tagliaventi---to break away from the
+cautious abstraction of the Muratorian school. This movement also
+claimed adherence to a form of typology, in this case the 'nameable
+objects' put forward by Léon Krier [@krier:2009architecture, 29] and
+definite, recognizable urban spaces as formulated by Rob Krier
+[@krier:1991urban, 17]. Their work is outwardly more reminiscent of
+Italian vernacular and classical traditions than the abstract practice
+of the Muratorian planners, but another crucial difference shows through
+on closer inspection. These new traditionalists traded Muratori's
+integral recomposition of the historic settlement patterns for an uneasy
+compromise with mainstream real estate development practices as well as
+with standard planning regulations. This has given them a larger
+footprint in the actual built environment, but it came at the cost of
+debasing the underlying process of traditional typologies. This is not
+an unconscious distortion, either. Tagliaventi, the most scholarly
+minded among these new traditionalists, has claimed explicit affiliation
+to the early twentieth century 'garden city' movement as a workable
+compromise between modern planning practices and traditional urban
+environments [@tagliaventi:1988alla]. Moreover, he is wary of Tafuri's
+vision of architectural history as entirely detached from the profession
+of architecture. Tagliaventi's historical research is characterized by a
+fiercely disciplinary approach focusing on the 'tools of the
+trade'---compositional devices, materials, techniques, and
+manufacturing. His *Tecniche e tecnologie dell'architettura fra
+eclettismo e storicismo* reads less like Tafuri's books---anthologies
+permeated by the single purpose of discussing capitalist development
+since the Renaissance---and more like Rossi's *Architecture of the
+City*: a collection of fragments building up to an underlying 'typology'
+of recurring practices and processes of disciplinary decision-making
+[@tagliaventi:2000tecniche].
 
-# Operativeness in historical perspective #
+# Conclusion: operativity in historical perspective #
 
-Thus, the analysis turns back for a final look at how critical
-historiography addresses the shortcomings of operativity. By looking at
+Now, the analysis turns back for a final look at how critical
+historiography addressed the shortcomings of operativity. By looking at
 the interaction of historical scholarship and design practice in the
-work of architects who combine both activities [See, for example,
-@tagliaventi:2007manuale; @tagliaventi:2000tecniche], the theoretical
+work of architects who combine both activities, the theoretical
 assumptions linking both fields become clear. The typological
 contradictions between the 'historic city' strictly
-defined---preindustrial urbanism [@caniggia:2008lettura, 23]---and the
-urban fabric of the late nineteenth and early twentieth centuries
-appears as an unresolved conflict  in the methods and judgements of
-'modernists' from the Muratorian school [@strappa:1989tradizione] and of
-traditionalists alike [@tagliaventi:2006european18].
+defined---pre-industrial urbanism---and the urban fabric of the late
+nineteenth and early twentieth centuries appears as an unresolved
+conflict  in the methods and judgements of 'modernists' from the
+Muratorian school and of traditionalists alike. In Tafuri's overarching
+critical scheme, laid out as early as 1968, the distinctions in form and
+scale between the pre-industrial and post-industrial built environments
+seemed inconsequential: both were part of a continuous process of
+developing capitalism, which was more crucially leading to the end of
+architecture as an effective discipline.
 
-- Intrahistory and casticism;
-- Present reality is at the same time singular (yet apt to be
-  contaminated by the artefacts of memory) and a collapsed state of
-  all previous history.
+It is true that Tafuri's initial enmity towards the 'operative history'
+developed by Muratori softened in the 1980s, when the scholarly
+contributions of planning typology became clear. Nevertheless, the
+separation between these two methods evidences a fundamental rift in
+scholarship and practice. History, as understood by Tafuri, is bounded
+by the fragmentary evidence in sources, and consists of continuous
+rearrangements of these fragments. This rearrangement is guided by an *a
+priori* theory of historical process, which in Tafuri's programme is the
+critique of capitalist development. Muratorian planning typology, on the
+other hand, should be called, more properly, a form of archaeology of
+the built environment. It is concerned with reconstructing the
+invisible, structural process between the extant fragments, and does so
+by assuming *a priori* that these fragments must be instances of types.
 
-- The present as a *result* of the past is an illusion crafted by
-  collective memory, because 'the present' is itself an identity
-  crafted in the present;
-- The present as *different* from the past is an illusion crafted by
-  (teleological) historicism, because 'the past' ultimately does not
-  exist;
-- Both are therefore inadequate justifications for practice because
-  they focus on the *movement* from past to present, which is not
-  experienced but is a mental construct.
+Aldo Rossi took typology into a terrain that had a less rigorous method.
+This enabled him and his followers to develop a variety of
+experimentations along a spectrum ranging from extremely abstract forms
+celebrating the fragmentary remnants of the traditional city, to
+extremely figurative renderings of classical forms exploring ways of
+completing the fragmentary state of the built environment. This variety
+has resulted in Rossi's work and legacy being sometimes discounted as
+inconsistent, superficial, or conservative. This approach all but
+vanished from academic debates in the twenty-first century, even as it
+has gained a growing foothold in the development market.
 
-- The present, collapsed state of the city is all we have;
-- The role of history is to *pull apart* this collapsed state and
-  to make *discrete* images of its moments in time;
-- The role of design is to *synthesise* this collapsed state and
-  to make *the whole* coherent and imageable at a single point of
-  intervention.
-
-# Conclusion #
+All three stances, Tafuri's historical critique, Muratori's operative
+history, and Rossi's free-form typology, made relevant points about the
+nature of reality in architecture and its history. In a sense, Tafuri's
+implicit foundational belief that the past does not *exist* in reality
+is true: all we have at hand is the whole of surviving fragments of
+history collapsed onto the present; ascribing some of these fragments to
+'the present' or 'the past' is an operation of memory and critique,
+however ingrained certain attributions must be for any sort of discourse
+to be effective. On the other hand, this collapsed state of all of
+history onto the present is precisely what grants legitimacy to
+Muratori's normative claim that the existing city be the starting point
+of new construction. The role of history is indeed to pull apart this
+collapsed state into discrete images of aspects or moments in a virtual
+reconstruction of time; conversely, the role of design is to synthesize
+this collapsed state by making a fractured accumulation of instances
+whole and imageable at a single point of intervention.
 
