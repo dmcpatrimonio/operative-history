@@ -1,15 +1,14 @@
-fail-if-warnings        : true
-file-scope              : true
-standalone              : true
-default-image-extension : '.jpg'
 bibliography            : '_biblio.bib'
 cite-method             : 'citeproc'
-csl                     : '_csl/chicago-fullnote-bibliography-with-ibid.csl'
-reference-links         : true
-reference-location      : 'block'
+csl                     : 'chicago-fullnote-bibliography-with-ibid.csl'
+data-dir                : '_lib'
+fail-if-warnings        : true
+file-scope              : true
 filters:
   - pandoc-crossref
   - citeproc
+reference-links         : true
+reference-location      : 'block'
 resource-path:
-  - .
-  - figures
+  - _csl
+standalone              : true
