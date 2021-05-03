@@ -1,0 +1,26 @@
+{%- if page.title %}
+  <header>
+    <h1 class="title">{{ page.title }}</h1>
+    {%- if page.subtitle %}
+      <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif -%}
+    {%- if page.date %}
+      <p class="byline">{{ page.date | date: "%B %-d, %Y"}}</p>
+    {% endif -%}
+    {%- if page.author %}
+      <p class="author">{{ page.author }}
+      {%- if page.affiliation -%}
+      <span class="sidenote-wrapper">
+        <label class="margin-toggle" for="affiliation"></label>
+        <input id="affiliation" class="margin-toggle" type="checkbox">
+        <span class="marginnote">
+          {{ page.affiliation }}
+          <br />
+          <br />
+        </span>
+      </span>
+      {%- endif -%}
+      </p>
+    {% endif -%}
+  </header>
+{% endif -%}

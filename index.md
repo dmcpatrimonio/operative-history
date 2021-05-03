@@ -1,7 +1,7 @@
 ---
-title   : "The Death and Life of 'Operative' History"
+title   : "The Death and Life of Operative History"
 subtitle: "Dialogues Between Historiography and Design Theory in Contemporary Italy"
-date    : "EAHN 2021 session 'Split Cultures/New Dialogues: Research in Architectural History and Theory'"
+date    : "EAHN 2021 session Split Cultures/New Dialogues: Research in Architectural History and Theory"
 author  : "Pedro P. Palazzo"
 affiliation: >
   Associate professor at the University of Brasilia school of
@@ -25,7 +25,7 @@ keywords:
   - New classicism
   - Manfredo Tafuri
   - Aldo Rossi
-layout: page
+layout                 : page
 suppress-bibliography  : true
 notes-after-punctuation: true
 number-sections        : false
