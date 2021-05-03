@@ -32,10 +32,6 @@ _csl/%.csl : _csl
 
 .PHONY: _site
 _site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
-	@echo "Fetching gh-pages branch..."
-	@cd $@ && git pull || \
-		git clone -b gh-pages --depth=1 \
-		git@github.com:dmcpatrimonio/tipo_ecletismo.git $@
 	@$(JEKYLL/PANDOC) \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
