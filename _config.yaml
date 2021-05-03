@@ -23,7 +23,7 @@ theme: tufte-pandoc-jekyll
 markdown: Pandoc
 pandoc:
   extensions:
-    - defaults: "_spec/defaults.yaml"
+    - defaults: "_spec/html.yaml"
     - section-divs
 plugins:
   - jekyll-coffeescript
@@ -35,6 +35,9 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-seo-tag
+sass_dir:
+  - assets/css
+  - _sass
 exclude:
   - LICENSE
   - Makefile
