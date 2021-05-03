@@ -2,7 +2,7 @@
 title   : "The death and life of 'operative' history"
 subtitle: "Dialogues between historiography and design theory in contemporary Italy"
 date    : "EAHN 2021"
-author  : "Pedro Paulo Palazzo[^aff]"
+author  : "Pedro Paulo Palazzo"
 affiliation: >
   Visiting scholar at the Università degli Studi di
   Roma « Tor Vergata » department of Civil and Computer
@@ -23,9 +23,6 @@ abstract: |
   critical and autonomous historiography, although the theoretical
   pitfalls of giving an operative role to historical knowledge are ever
   present.
-
-  **Keywords:** Theory of architectural history, Italian school of
-  procedural typology, New classicism, Manfredo Tafuri, Aldo Rossi
 keywords:
   - Theory of architectural history
   - Italian school of procedural typology
@@ -33,9 +30,6 @@ keywords:
   - Manfredo Tafuri
   - Aldo Rossi
 description: |
-  Abstract
-  ========
-
   Manfredo Tafuri's caveats regarding 'operative criticism' as a
   progressive solution to the lack of political efficacy and of
   scholarly rigour in the militant architectural history of the
@@ -97,7 +91,7 @@ The Italian universe of typological studies is probably best known
 through Aldo Rossi's idiosyncratic definition of the concept, in *The
 Architecture of the City,* as the study of 'constants' underlying urban
 and architectural 'facts' and discernible in them
-[@rossi:2006architettura, 33]. Saverio Muratori's contribution, on the
+[@rossi:1995larchitettura, 33]. Saverio Muratori's contribution, on the
 other hand, is restricted to the technical domain of urban morphology
 [@cataldi:2013debito, 14], to a great extent due to his ostracism from
 the mainstream critical panorama, brought about by his ideological
@@ -203,10 +197,4 @@ urban fabric of the late nineteenth and early twentieth centuries
 appears as an unresolved conflict  in the methods and judgements of
 'modernists' from the Muratorian school [@strappa:1989tradizione] and of
 traditionalists alike [@tagliaventi:2006european18].
-
-[^aff]: Visiting scholar at the Università degli Studi di Roma « Tor
-  Vergata » department of Civil and Computer Engineering and at the
-  University of Coimbra Centre for Social Studies in 2019--2020. Assistant
-  professor at the University of Brasilia school of Architecture and
-  Urbanism.
 

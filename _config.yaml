@@ -13,7 +13,8 @@ description: >-
   critical and autonomous historiography, although the theoretical
   pitfalls of giving an operative role to historical knowledge are ever
   present.
-baseurl: "/tipo_ecletismo"
+baseurl: "/operative-history"
+lang: en-GB
 url: "https://dmcpatrimonio.github.io"
 twitter_username: p3palazzo
 github_username:  p3palazzo
@@ -23,7 +24,7 @@ theme: tufte-pandoc-jekyll
 markdown: Pandoc
 pandoc:
   extensions:
-    - defaults: "_spec/defaults.yaml"
+    - defaults: "_spec/html.yaml"
     - section-divs
 plugins:
   - jekyll-coffeescript
@@ -31,12 +32,19 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-pandoc
-  - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-seo-tag
+sass_dir:
+  - assets/css
+  - _sass
 exclude:
   - LICENSE
   - Makefile
+  - README.md
+  - "reveal.js"
+  - "*.docx"
+  - "*.pdf"
 keep_files:
   - ".git"
+  - "reveal.js"

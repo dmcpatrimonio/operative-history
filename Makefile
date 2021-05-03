@@ -9,7 +9,7 @@ vpath reference.% .:_lib
 JEKYLL-VERSION := 4.2.0
 PANDOC-VERSION := 2.12
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
-	-u "`id -u`:`id -g`" palazzo/jekyll-pandoc:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
+	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
 DEFAULTS := defaults.yaml _biblio.bib
@@ -32,11 +32,8 @@ _csl/%.csl : _csl
 
 .PHONY: _site
 _site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
-	@echo "Fetching gh-pages branch..."
-	@cd $@ && git pull || \
-		git clone -b gh-pages --depth=1 \
-		git@github.com:dmcpatrimonio/tipo_ecletismo.git $@
-	@$(JEKYLL/PANDOC) jekyll build
+	@$(JEKYLL/PANDOC) \
+		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
 # Install and cleanup {{{1
 # ===================

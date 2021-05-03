@@ -1,11 +1,12 @@
 ---
-title   : "The Death and Life of 'Operative' History"
+title   : "The Death and Life of Operative History"
 subtitle: "Dialogues Between Historiography and Design Theory in Contemporary Italy"
-date    : "EAHN 2021 session 'Split Cultures/New Dialogues: Research in Architectural History and Theory'"
-author  : "Pedro P. Palazzo[^aff]"
-abstract: |
-  ## Abstract ##
-
+date    : "EAHN 2021 session Split Cultures/New Dialogues: Research in Architectural History and Theory"
+author  : "Pedro P. Palazzo"
+affiliation: >
+  Associate professor at the University of Brasilia school of
+  Architecture and Urbanism.
+description: >
   The Italian debates of the post-war era regarding the possibility of
   an 'operative' history of architecture revolved around Manfredo
   Tafuri's critique of Saverio Muratori's method of procedural typology
@@ -18,25 +19,38 @@ abstract: |
   critical and autonomous historiography, although the theoretical
   pitfalls of giving an operative role to historical knowledge are ever
   present.
-
-  ## Keywords ##
-
-  Theory of architectural history, Italian school of procedural
-  typology, New classicism, Manfredo Tafuri, Aldo Rossi.
 keywords:
   - Theory of architectural history
   - Italian school of procedural typology
   - New classicism
   - Manfredo Tafuri
   - Aldo Rossi
+layout                 : page
 suppress-bibliography  : true
 notes-after-punctuation: true
 number-sections        : false
 lang                   : en-GB
 ---
 
-[^aff]: Associate professor at the University of Brasilia school of
-      Architecture and Urbanism.
+## Abstract ##
+
+The Italian debates of the post-war era regarding the possibility of
+an 'operative' history of architecture revolved around Manfredo
+Tafuri's critique of Saverio Muratori's method of procedural typology
+and his ambiguous stance on Aldo Rossi's later work. They provide the
+theoretical background for a present-day 'Italian school' of
+typo-morphology. This 'school' is split between the modernist
+disciples of Muratori and the younger traditionalists, loosely
+inspired by Rossi. The points of agreement and of disagreement within
+this school point to a continued reevaluation of Tafuri's call for a
+critical and autonomous historiography, although the theoretical
+pitfalls of giving an operative role to historical knowledge are ever
+present.
+
+## Keywords ##
+
+Theory of architectural history, Italian school of procedural
+typology, New classicism, Manfredo Tafuri, Aldo Rossi.
 
 # Introduction #
 
@@ -59,7 +73,7 @@ The Italian universe of typological studies is probably best known
 from Aldo Rossi's idiosyncratic definition of the concept, in *The
 Architecture of the City,* as the study of 'constants' underlying urban
 and architectural 'facts' and discernible in them
-[@rossi:2006architettura, 33]. Saverio Muratori's contribution, on the
+[@rossi:1995larchitettura, 33]. Saverio Muratori's contribution, on the
 other hand, was restricted to the technical domain of urban morphology
 [@cataldi:2013debito, 14]. Tafuri himself towers tall as one of the
 most acclaimed architectural historians of the post--1968 era, not the
@@ -131,7 +145,7 @@ that persists across the ages. Despite the incoherence of this 'creation
 born out of numerous and diverse moments of formation', the city can
 still, at any one moment, be grasped as 'a unit in its whole', because
 'the possibility of reading the city in continuity lies in its
-pre-eminent formal and spatial character' [@rossi:1995architettura, 72].
+pre-eminent formal and spatial character' [@rossi:1995larchitettura, 72].
 
 Tafuri, a former student of both Muratori's and Zevi's, took issue with
 both of their brands of Idealism in his 1968 book, *Theories and History
@@ -214,7 +228,7 @@ Such persistence is driven, primarily, by embodied memory.
 This refers to those 'urban facts' that hold back the continuous process
 of urban transformation: monumental architecture at one end, and the
 enduring pattern of land subdivision and ownership at the other
-[@rossi:1995architettura]. When these factors are not at play, as in
+[@rossi:1995larchitettura]. When these factors are not at play, as in
 greenfield projects, the physical urban memory must then be replicated
 by means of reconstructed classifications present in human memory. Both
 Muratori and Rossi thus claimed identity between the synthetic
