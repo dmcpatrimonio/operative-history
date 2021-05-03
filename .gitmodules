@@ -7,3 +7,6 @@
 [submodule "assets/css-slides"]
 	path = assets/css-slides
 	url = https://gist.github.com/44eae8bf1ecf6d3ab9e268e650e276d8.git
+[submodule "reveal.js"]
+	path = reveal.js
+	url = https://github.com/hakimel/reveal.js.git

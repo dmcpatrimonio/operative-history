@@ -1,7 +1,7 @@
 ---
 title      : "The death and life of 'operative' history"
 subtitle   : "Dialogues between historiography and design theory in contemporary Italy"
-author     : "Pedro Paulo Palazzo[^aff]"
+author     : "Pedro Paulo Palazzo"
 affiliation: |
   Visiting scholar at the Università degli Studi di
   Roma « Tor Vergata » department of Civil and Computer
@@ -53,9 +53,3 @@ these theoretical conflicts yet show the way forward for
 'operative' historiography and typological theory in the
 Italian school.
 
-
-[^aff]: Visiting scholar at the Università degli Studi di
-      Roma « Tor Vergata » department of Civil and Computer
-      Engineering for 2019--2020. Assistant professor at the
-      University of Brasilia school of Architecture and
-      Urbanism.

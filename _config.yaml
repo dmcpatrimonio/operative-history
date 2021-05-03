@@ -31,7 +31,6 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-pandoc
-  - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -41,5 +40,10 @@ sass_dir:
 exclude:
   - LICENSE
   - Makefile
+  - README.md
+  - "reveal.js"
+  - "*.docx"
+  - "*.pdf"
 keep_files:
   - ".git"
+  - "reveal.js"
