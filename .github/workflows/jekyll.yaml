@@ -20,7 +20,7 @@ jobs:
   commit:
     needs: [ build ]
     runs-on: ubuntu-latest
-    if: github.event_name == "push" && github.repository == "dmcpatrimonio/operative-history"
+    if: github.event_name == 'push' && github.repository == 'dmcpatrimonio/operative-history'
     env:
       commit_message: ${{ github.event.head_commit.message }}
     steps:
