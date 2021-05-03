@@ -56,8 +56,8 @@ typology, New classicism, Manfredo Tafuri, Aldo Rossi.
 
 The struggle for rigour in architectural scholarship in post-war Italy
 resulted in an engaging and diverse body of argumentative and exemplary
-writings by well-known authors such as Saverio Muratori (1910--73),
-Aldo Rossi (1931--97), and Manfredo Tafuri (1935--94). Their often
+writings by well-known authors such as Saverio Muratori (@fig:muratori),
+Aldo Rossi (@fig:rossi), and Manfredo Tafuri (@fig:tafuri). Their often
 conflicting positions on the craft of architectural history, its
 relationship to design practice, and the establishment of disciplinary
 parameters for either history or design, set the foundational arguments
@@ -68,6 +68,18 @@ these architects engaged. This controversy is
 expressed most clearly in their differing attitudes towards typology as
 either an art historical device or a theory of the architectural
 planning process.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=33%}
+![Saverio Muratori (1910--1973)](https://i.pinimg.com/originals/d2/c8/56/d2c856eb183a433688b5f19ebefd733a.jpg){#fig:muratori}
+:::
+::: {.column width=33%}
+![Aldo Rossi (1931--1997). Fondazione Aldo Rossi](https://i.pinimg.com/originals/e9/21/80/e92180050a52d1d0f101337cc8750ecd.jpg){#fig:rossi}
+:::
+::: {.column width=33%}
+![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/2d/bc/06/2dbc06b5e009fc67dc61a13fc368ff4c.jpg){#fig:tafuri}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The Italian universe of typological studies is probably best known
 from Aldo Rossi's idiosyncratic definition of the concept, in *The
