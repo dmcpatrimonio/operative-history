@@ -1,0 +1,44 @@
+name: "Web page build"
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: "recursive"
+      - name: "Build website"
+        run: make _site
+      - name: "Upload website"
+        uses: actions/upload-artifact@v2
+        with:
+          name: "site"
+          path: "_site/*"
+  commit:
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    if: github.event_name == "push" && github.repository == "dmcpatrimonio/operative-history"
+    env:
+      commit_message: ${{ github.event.head_commit.message }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: "gh-pages"
+          submodules: "recursive"
+      - name: "Download build"
+        uses: actions/download-artifact@v2
+        with:
+          name: "site"
+          path: ${{ github.workspace }}/
+      - name: Commit changes to gh-pages branch
+        run: |
+          cd ${{ github.workspace }}
+          git config --local user.email "runner@github.com"
+          git config --local user.name  "Automated build"
+          git add .
+          git commit -m "${{ env.commit_message }}" -a || git status
+          git pull --ff-only
+          git push
