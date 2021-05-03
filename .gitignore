@@ -2,14 +2,14 @@
 
 # Generated binary files (PDF, Word, etc.) go here {{{1
 ## Book build output
-_csl
-_site
+_csl/
 
 # Jekyll {{{1
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+Gemfile.lock
 
 # LaTeX {{{ 1
 ## Core latex/pdflatex auxiliary files: {{{2
