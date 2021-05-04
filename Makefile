@@ -35,6 +35,13 @@ _site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
 	@$(JEKYLL/PANDOC) \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
+.PHONY: serve
+serve : | _csl/chicago-fullnote-bibliography-with-ibid.csl
+	@docker run --rm -v "`pwd`:/srv/jekyll" \
+		-p "4000:4000" -h "0.0.0.0:127.0.0.1" \
+		palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION) \
+		jekyll serve
+
 # Install and cleanup {{{1
 # ===================
 .PHONY : _csl
