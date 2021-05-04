@@ -141,9 +141,9 @@ predicated on ever growing artistic originality failed, however, to
 respond to the urgent threat to historic centres posed by post-war
 development ([@fig:rossi-cdto; @fig:aua-cdto]).
 
-![Aldo Rossi, architect, competition design for the Administrative Centre, Turin, 1962. [Centre Canadien pour l'Architecture](https://www.cca.qc.ca/en/search/details/collection/object/368567)](https://i.pinimg.com/originals/42/24/29/422429afb28eca2fb9fd62e4ef22d98c.jpg){#fig:rossi-cdto .fullwidth}
-
 ![Studio [AUA]{.smallcaps}, architects (Manfredo Tafuri and others), competition design for the Administrative Centre, Turin, 1962](https://i.pinimg.com/originals/e9/87/36/e98736f315e85e094d474c164af2ccd5.jpg){#fig:aua-cdto}
+
+![Aldo Rossi, architect, competition design for the Administrative Centre, Turin, 1962. [Centre Canadien pour l'Architecture](https://www.cca.qc.ca/en/search/details/collection/object/368567)](https://i.pinimg.com/originals/42/24/29/422429afb28eca2fb9fd62e4ef22d98c.jpg){#fig:rossi-cdto .fullwidth}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sgg}
 ::::::: {.columns}
