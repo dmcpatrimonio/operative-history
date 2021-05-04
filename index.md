@@ -139,10 +139,40 @@ rise of creative freedom, following Benedetto Croce's aesthetic theory
 [@croce:1947concetto, 194]. Zevi's 'operative critique' of architecture
 predicated on ever growing artistic originality failed, however, to
 respond to the urgent threat to historic centres posed by post-war
-development.
+development ([@fig:rossi-cdto; @fig:aua-cdto]).
+
+![Aldo Rossi, architect, competition design for the Administrative Centre, Turin, 1962. [Centre Canadien pour l'Architecture](https://www.cca.qc.ca/en/search/details/collection/object/368567)](https://i.pinimg.com/originals/42/24/29/422429afb28eca2fb9fd62e4ef22d98c.jpg){#fig:rossi-cdto .fullwidth}
+
+![Studio [AUA]{.smallcaps}, architects (Manfredo Tafuri and others), competition design for the Administrative Centre, Turin, 1962](https://i.pinimg.com/originals/e9/87/36/e98736f315e85e094d474c164af2ccd5.jpg){#fig:aua-cdto}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sgg}
+::::::: {.columns}
+::: {.column width=33%}
+![1100](https://i.pinimg.com/originals/d6/25/5a/d6255a35e292df3cf2d4a1bdea992d26.jpg){#fig:sgg1100}
+:::
+::: {.column width=33%}
+![1200](https://i.pinimg.com/originals/cb/70/db/cb70db2abe0a6dc56b79f36ff3d73d9f.jpg){#fig:sgg1200}
+:::
+::: {.column width=33%}
+![1350](https://i.pinimg.com/originals/4b/a3/49/4ba3493434eb1606f072eaa4a885b38d.jpg){#fig:sgg1350}
+:::
+::::::
+::::::: {.columns}
+::: {.column width=33%}
+![1450](https://i.pinimg.com/originals/e8/17/e4/e817e49f05b8f47653ba4113d078509a.jpg){#fig:sgg1450}
+:::
+::: {.column width=33%}
+![1500](https://i.pinimg.com/originals/0c/22/b6/0c22b624f03afff5fe7ea88938873cd4.jpg){#fig:sgg1500}
+:::
+::: {.column width=33%}
+![1840](https://i.pinimg.com/originals/ec/0f/0e/ec0f0e6766c9d770a699ae08a9c56704.jpg){#fig:sgg1840}
+:::
+::::::
+Saverio Muratori and students from the Istituto Universitario di Architettura di Venezia [(IUAV)]{.smallcaps}, reconstruction of the historical process in the island of San Giovanni Grisostomo, Venice, ca. 1953--1956. Saverio Muratori archives, biblioteca Poletti, Modena
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Throughout the 1950s, Muratori developed another Idealist theory in
-response to this threat to the historic city. Against Zevi's concept of
+response to this threat to the historic city (@fig:sgg). Against Zevi's concept of
 'operative critique', he proposed an 'operative history' in which
 the reality of the city as a piecemeal accumulation of interventions
 paradoxically proved its nature to be that of a coherent organism.
@@ -209,10 +239,18 @@ therefore, perennially locked into this state of crisis: either a
 planner not designer, who would 'accept the transitional (and therefore
 ambiguous) role played nowadays by a dismembered and multifarious
 discipline' [@tafuri:1980sfera, 25], or a destroyer of conventional
-meaning such as the younger Aldo Rossi, who took the existing city 'as a
-mere pretext' and let architecture 'hang dangerously in the balance: its
-reality, never denied outright, but mischievously mingled with the
-unreal' [@tafuri:2002storia, 170].
+meaning such as the younger Aldo Rossi ([@fig:scataldo; @fig:scataldo-dwg]),
+who took the existing city 'as a mere pretext' and let architecture 'hang
+dangerously in the balance: its reality, never denied outright, but
+mischievously mingled with the unreal' [@tafuri:2002storia, 170].
+
+![Aldo Rossi and Giovanni Braghieri, architects, design for the San Cataldo cemetery, Modena, 1971](https://i.pinimg.com/originals/0f/41/7c/0f417c36375c3278865b15da0cec0f72.png){#fig:scataldo-dwg .fullwidth}
+
+![Aldo Rossi and Giovanni Braghieri, architects, San Cataldo cemetery, Modena, 1971. Photo: [Camouflajj, 2016](https://commons.wikimedia.org/wiki/File:San_Cataldo_simmetrica.jpg))](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/San_Cataldo_simmetrica.jpg/2560px-San_Cataldo_simmetrica.jpg){#fig:scataldo}
+
+![Typological process in the base building types of Rome, after Saverio Muratori](https://i.pinimg.com/originals/00/2d/6a/002d6a597261bb1a5b0bd8b53bc9b15c.png){#fig:roma-proc}
+
+![Saverio Muratori, architect, winning competition entry for the urban development of Barene di San Giuliano, Venice, 1959 (unexecuted)](https://i.pinimg.com/originals/91/61/9e/91619eb5c6325ac9d932c146b3605046.png){#fig:barene .fullwidth}
 
 In contrast to Tafuri's argument for a permanent state of crisis
 [@biraghi:2005progetto], Muratori and Rossi sought to overcome the crisis of
@@ -220,13 +258,13 @@ modernity, which is ultimately a disjunction between what society values
 and what it makes. This crisis, as described by Muratori, lay in the
 social desire to preserve the coherence of traditional territories in an
 age when the 'spontaneous' and incremental practice that hand given rise
-to them was being lost to the 'self-conscious' and destructive practices
+to them (@fig:roma-proc) was being lost to the 'self-conscious' and destructive practices
 of modern architecture [@muratori:1967civilta, 24]. To this end, the
 processes that gave rise to the mature traditional city ought not be
 seen merely as products of their (past) ages. Rather, they were
 intrinsically legitimate and necessary means of carrying on the
 city-building process, *because* the city was by definition the outcome
-of such processes---and departing from them would entail building
+of such processes (@fig:barene)---and departing from them would entail building
 anything *but* a real city [@moschini:2013saverio, 176]. In turn,
 Muratori saw the crafting of a historical narrative as analogous to the
 process of city-building, inasmuch as either is only legitimate when it
@@ -242,14 +280,18 @@ of urban transformation: monumental architecture at one end, and the
 enduring pattern of land subdivision and ownership at the other
 [@rossi:1995larchitettura]. When these factors are not at play, as in
 greenfield projects, the physical urban memory must then be replicated
-by means of reconstructed classifications present in human memory. Both
-Muratori and Rossi thus claimed identity between the synthetic
+by means of reconstructed classifications present in human memory (@fig:analoga).
+Both Muratori and Rossi thus claimed identity between the synthetic
 reconstruction of the process that has brought about the historic city
 as it exists and a normative theory of how best to build upon this
 process. For both Muratori and Rossi, the concept of type was central to
 this unified operation that both describes and directs city-building.
 
+![Aldo Rossi, Città analoga, 1976 version. Photomontage on paper. [Bonnefantemuseum](https://artsandculture.google.com/asset/citta-analoge-aldo-rossi/MwE5jj9G9gjz2A)](https://i.pinimg.com/originals/34/1e/19/341e19f4e54c548f99ecf810436948c4.jpg){#fig:analoga}
+
 # Typology, abstraction, and figuration #
+
+![Gianfranco Caniggia and Gian Luigi Maffei, diachronic mutations in the built fabric, from *Lettura dell'edilizia di base* (1977), pl. 12. The reduced scale of the schemes make it impossible to represent the construction details that give visual character to the buildings, and instead turns the schemes into abstracted, almost modernist, designs](https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png){#fig:base .marginnote}
 
 The concept of typology as a descriptive device in architectural history
 has been asserted by authors with a wide range of theoretical
@@ -275,24 +317,24 @@ modernist denunciation of eclecticism as inauthentic and commended the
 Muratori's synthesis of an integral fabric of reality to be recomposed
 by contextual design was thus replaced with an analytical attitude that
 tried to isolate the 'structural' components of urban form while
-throwing out the 'recycling of forms cherry picked from the past'
+throwing out the 'recycling of forms cherry picked from the past' (@fig:base)
 [@caniggia:1984moderno, 77]. This compromise nevertheless paid off
 politically, as Caniggia earned Tafuri's respect [@tafuri:2002storia,
 80] and Caniggia's own disciples have achieved a prestigious standing in
 today's scholarly field of urban morphology [@cataldi:2002saverio6].
 Since the last decade of the twentieth century, this 'Italian school of
 typology' has turned into a continuum ranging from strict adherents of
-Caniggia's 'modern' identity---Gian Luigi Maffei and Nicola Marzot
-[@marzot:2002study6]---to scholars studying eclectic planning as a
-legitimate step in the typological process---Giuseppe Strappa
-[@caniggia:1989permanenze]---to 'soft' traditionalists---Paolo Maretto
-and Giancarlo Cataldi [@maretto:1989verita; @cataldi:1989introduzione].
+Caniggia's 'modern' identity---Gian Luigi Maffei and Nicola Marzot---to
+scholars studying eclectic planning as a legitimate step in the typological
+process---Giuseppe Strappa---to 'soft' traditionalists---Paolo Maretto
+and Giancarlo Cataldi [@marzot:2002study6; @caniggia:1989permanenze;
+@maretto:1989verita; @cataldi:1989introduzione].
 
 A rift remained, nevertheless, between this academically minded group
 and another circle of architects that formed under the influence of Aldo
 Rossi's later work. Starting with the 1979 Teatro del Mondo project in
-the Venice Biennale, Rossi drifted towards a more figurative take on
-memory. The scandal generated by this project overshadowed Rossi's
+the Venice Biennale (@fig:mondo), Rossi drifted towards a more figurative
+take on memory. The scandal generated by this project overshadowed Rossi's
 consistent stream of exploration into the use of classical details and
 the more complete reconstruction of a traditionalist idiom in his later
 works. Though Rossi wrote little from the mid 1970s on, his designs seem
@@ -307,15 +349,28 @@ first, the incomplete nature of memory was made palpable through formal
 abstraction and lack of detailing; later, Rossi incorporates figurative
 ornament (classical or postmodern). The abstract identity carried
 through memory became increasingly supported by figurative elements in
-Rossi's later works, setting him firmly apart from the Muratorian
-school.
+Rossi's later works (@fig:berlin), setting him firmly apart from the
+Muratorian school.
+
+![Aldo Rossi, architect, teatro del Mondo, Venice, 1979](https://i.pinimg.com/originals/61/a4/48/61a448583a301b95c492d7c1cb2bce7e.jpg){#fig:mondo}
+
+![Aldo Rossi, architect, Schützenstraße development, Berlin, 1994--1996. Photo: [Jörg Zägel, 2012](https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg/2560px-Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg){#fig:berlin}
+
+![Pier Carlo Bontempi, architect, borgo di Santa Costanza, Fornovo di Taro (Parma), 2007](https://i.pinimg.com/originals/d3/92/b7/d392b75e38657796c70388b186cdacb1.jpg){#fig:costanza}
+
+![Léon Krier and Gabriele Tagliaventi, borgo Città Nuova, Alessandria, 1995](https://i.pinimg.com/originals/92/59/a0/9259a08afbbb734abe66d35d94d58aeb.jpg){#fig:aless .fullwidth}
+
+![Léon Krier and Gabriele Tagliaventi, architects, borgo Città Nuova, Alessandria, 1995, concept sketch. The development looks fine-grained at first sight, but closer inspection shows it is really a single parcel covering the whole block over an underground parking garage](https://i.pinimg.com/originals/43/40/21/4340215d31e913d019c869d92ee86af3.jpg){#fig:aless-sketch .marginnote}
+
+![Léon Krier, so-called objects vs nameable objects, in *The Architecture of Community* (1988)](https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png){#fig:uniform}
 
 Rossi's example led a younger generation of 'traditionalists'
 [@rosponi:2004new] or 'new classicists' [@papadakis:1990new]---such as
-Pier Carlo Bontempi and Gabriele Tagliaventi---to break away from the
+Pier Carlo Bontempi and Gabriele Tagliaventi
+([@fig:costanza; @fig:aless])---to break away from the
 cautious abstraction of the Muratorian school. This movement also
 claimed adherence to a form of typology, in this case the 'nameable
-objects' put forward by Léon Krier [@krier:2009architecture, 29] and
+objects' (@fig:uniform) put forward by Léon Krier [@krier:2009architecture, 29] and
 definite, recognizable urban spaces as formulated by Rob Krier
 [@krier:1991urban, 17]. Their work is outwardly more reminiscent of
 Italian vernacular and classical traditions than the abstract practice
@@ -325,12 +380,12 @@ integral recomposition of the historic settlement patterns for an uneasy
 compromise with mainstream real estate development practices as well as
 with standard planning regulations. This has given them a larger
 footprint in the actual built environment, but it came at the cost of
-debasing the underlying process of traditional typologies. This is not
-an unconscious distortion, either. Tagliaventi, the most scholarly
+debasing the underlying process of traditional typologies (@fig:aless-sketch).
+This is not an unconscious distortion, either. Tagliaventi, the most scholarly
 minded among these new traditionalists, has claimed explicit affiliation
 to the early twentieth century 'garden city' movement as a workable
 compromise between modern planning practices and traditional urban
-environments [@tagliaventi:1988alla]. Moreover, he is wary of Tafuri's
+environments [@tagliaventi:1988alla] (@fig:medici). Moreover, he is wary of Tafuri's
 vision of architectural history as entirely detached from the profession
 of architecture. Tagliaventi's historical research is characterized by a
 fiercely disciplinary approach focusing on the 'tools of the
@@ -343,7 +398,11 @@ City*: a collection of fragments building up to an underlying 'typology'
 of recurring practices and processes of disciplinary decision-making
 [@tagliaventi:2000tecniche].
 
+![Gabriele Tagliaventi, architect, îlot Médicis, Val-d'Europe, Marne-la-Vallée, France, 2005. A perimetre block with a shared interior garden. [Eco-compact cities website by Gabriele Tagliaventi](http://www.ecocompactcity.org/Building/Eco_Compact_Building.html)](https://i.pinimg.com/originals/7b/8a/a5/7b8aa5fcec6a7f836e1cdffcc5a3ec26.jpg){#fig:medici}
+
 # Conclusion: operativity in historical perspective #
+
+![Saverio Muratori and Mario de Renzi, architects, INA--Casa Tuscolano II housing development, Rome, 1950--1954. [Italian ministry for Cultural Properties and Affairs](https://www.atlantearchitetture.beniculturali.it/en/ina-casa-tuscolano-ii/)](https://i.pinimg.com/originals/ba/dc/6d/badc6db423d46ec6f2ff7c1c517f63c6.jpg){#fig:tuscolano .fullwidth}
 
 Now, the analysis turns back for a final look at how critical
 historiography addressed the shortcomings of operativity. By looking at
@@ -354,7 +413,7 @@ contradictions between the 'historic city' strictly
 defined---pre-industrial urbanism---and the urban fabric of the late
 nineteenth and early twentieth centuries appears as an unresolved
 conflict  in the methods and judgements of 'modernists' from the
-Muratorian school and of traditionalists alike. In Tafuri's overarching
+Muratorian school and of traditionalists alike (@fig:tuscolano). In Tafuri's overarching
 critical scheme, laid out as early as 1968, the distinctions in form and
 scale between the pre-industrial and post-industrial built environments
 seemed inconsequential: both were part of a continuous process of
@@ -373,7 +432,10 @@ critique of capitalist development. Muratorian planning typology, on the
 other hand, should be called, more properly, a form of archaeology of
 the built environment. It is concerned with reconstructing the
 invisible, structural process between the extant fragments, and does so
-by assuming *a priori* that these fragments must be instances of types.
+by assuming *a priori* that these fragments must be instances of types
+(@fig:corte).
+
+![Gianfranco Caniggia and Gian Luigi Maffei, typological process of the courtyard house in Italy](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:corte}
 
 Aldo Rossi took typology into a terrain that had a less rigorous method.
 This enabled him and his followers to develop a variety of
