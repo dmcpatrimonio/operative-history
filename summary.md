@@ -68,13 +68,25 @@ reference-section-title: 'References'
 lang                   : en-GB
 ---
 
-![Gianfranco Caniggia. Typological analysis plate of the City of Como, 1963.
-[@caniggia:1984lettura]](como-ii.png)
+## {.unlisted}
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=33%}
+![Saverio Muratori (1910--1973)](https://i.pinimg.com/originals/d2/c8/56/d2c856eb183a433688b5f19ebefd733a.jpg){#fig:muratori}
+:::
+::: {.column width=33%}
+![Aldo Rossi (1931--1997). Fondazione Aldo Rossi](https://i.pinimg.com/originals/e9/21/80/e92180050a52d1d0f101337cc8750ecd.jpg){#fig:rossi}
+:::
+::: {.column width=33%}
+![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/2d/bc/06/2dbc06b5e009fc67dc61a13fc368ff4c.jpg){#fig:tafuri}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 The struggle for rigour in architectural scholarship in post-war Italy
 resulted in an engaging and diverse body of argumentative and exemplary
-writings by well-known authors such as Saverio Muratori (1910--1973),
-Aldo Rossi (1931--1997), and Manfredo Tafuri (1935--1994). Their often
+writings by well-known authors such as Saverio Muratori,
+Aldo Rossi, and Manfredo Tafuri. Their often
 conflicting positions on the craft of architectural history, its
 relationship to design practice, and the establishment of disciplinary
 parameters for either history or design, set the foundational arguments
@@ -82,26 +94,15 @@ for much of the international debate around these themes.
 
 The validity of extracting 'operative' knowledge from history for use in
 architectural and urban practice is one among many debates in which
-these architects engaged [@purini:2013saverio, 62]. This controversy is
+these architects engaged. This controversy is
 expressed most clearly in their differing attitudes towards typology as
 either an art historical device or a theory of the architectural
 planning process.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-The Italian universe of typological studies is probably best known
-through Aldo Rossi's idiosyncratic definition of the concept, in *The
-Architecture of the City,* as the study of 'constants' underlying urban
-and architectural 'facts' and discernible in them
-[@rossi:1995larchitettura, 33]. Saverio Muratori's contribution, on the
-other hand, is restricted to the technical domain of urban morphology
-[@cataldi:2013debito, 14], to a great extent due to his ostracism from
-the mainstream critical panorama, brought about by his ideological
-condemnation at the hands of Bruno Zevi and Manfredo Tafuri
-[@pigafetta:1990saverio, 29]. Tafuri himself towers tall as one of the
-most acclaimed architectural historians of the post--1968 era, not the
-least for his combative---though at times inconsistent---argument for
-the critical autonomy of architectural history outside the professional
-scope of the architectural discipline [@tafuri:1988teorie, 268].
+## {.unlisted .green}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nowadays, however, and especially outside Italy, the critical
 perspectives around these three architects are mostly cut off from one
 another, being concerned with specific subfields in research and
@@ -109,92 +110,230 @@ practice, the scopes of which have been increasingly delimited to
 reflect their respective methodological and ideological *partis pris.*
 This segmentation of theories and scholarship influenced by Muratori,
 Rossi, and Tafuri is not only a misrepresentation of their frequent
-engagement with one another's theories [As evidenced by
-@moschini:2013saverio; @petruccioli:1998exoteric; @lobsinger:2006new59;
-@murro:2019storia]; it also obscures the claim put forward by each one
-of them to a systematic representation of and agency on the urban
-environment.
+engagement with one another's theories; it also obscures the claim put
+forward by each one of them to a systematic representation of and agency
+on the urban environment.
 
-The confrontation of Tafuri's critical underpinnings for an autonomous
-and critical history of architecture [@biraghi:2005progetto] with
-Muratori's and Rossi's methods for the operative leveraging of
-historical research in design exposes the overarching conflicts in world
-view among them, of course, but beneath these differences certain
-fundamental affinities show through, evidencing how they partake in the
-major intellectual and political themes of their age. These affinities
-have not, however, been carried on by their disciples and interpreters
-as clearly as their differences. This has caused Muratori's, Rossi's,
-and Tafuri's work to become somewhat abstract and disconnected from the
-role they all expected their critique to play in the transformation of
-urban planning [@tafuri:1980sfera, 24]. In other words, what they have
-in common is they intended not so much to propose a general theory of
-architectural form---for Muratori was sceptical of formal rules, Rossi
-was sceptical of generalisations, and Tafuri was sceptical of
-theorising---, but rather to look at the contemporary city as a
-*process* to be acted upon politically and technically
-[@muratori:1959studiIX, 132].
+These claims unfolded throughout their careers and legacies on four
+successive levels I shall develop in this paper. At first, Muratori,
+Rossi, and Tafuri all grappled with the fragmented nature of historical
+evidence and the conflicting ways by which they sought to explain
+architecture as a process. Their various responses to this problem led
+to the second level, in which Tafuri's strictly critical stance breaks
+away from the operative methods laid out by Muratori and Rossi. In the
+third level, Muratori's legacy of an all-encompassing theory of urban
+succession, carried on by his disciples, came to be at odds with the
+later work of Rossi, increasingly interested in local and visual
+references over abstract theories. Finally, in the fourth level I will
+look at a few living architects who have carried on the operative
+typologies of both Muratori and Rossi.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-In light of their common goal of contributing critically to processes
-rather than objects, one can begin to draw a clearer picture of their
-affinities and conflicts, putting the acrid debates of the 1960s and 70s
-in the long-term perspective of how their legacies have been, and could
-be, carried on throughout the evolving ideological configurations of the
-architectural profession. To this end, the study of the direct 'lineage'
-of the second and third generation of Muratori's disciples
-[@cataldi:2002saverio6], as well as of other practitioners and scholars
-influenced by Rossi's poetics of the city and by Tafuri's critical
-historiography, offers an overview of what rigorous architectural
-scholarship can look like in the present day. This loosely defined group
-of architects may be, for starters, grouped in an 'Italian school of
-typology' of sorts.
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png"}
 
-This 'school' shall be defined, initially, by the shared scope of
+![Gianfranco Caniggia. Typological analysis plate of the City of Como, 1963](https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png)
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Studio [AUA]{.smallcaps}, architects (Manfredo Tafuri and others), competition design for the Administrative Centre, Turin, 1962](https://i.pinimg.com/originals/e9/87/36/e98736f315e85e094d474c164af2ccd5.jpg){#fig:aua-cdto}
+:::
+::: {.column width=50%}
+![Aldo Rossi, architect, competition design for the Administrative Centre, Turin, 1962. [Centre Canadien pour l'Architecture](https://www.cca.qc.ca/en/search/details/collection/object/368567)](https://i.pinimg.com/originals/42/24/29/422429afb28eca2fb9fd62e4ef22d98c.jpg){#fig:rossi-cdto .fullwidth}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Let us start out with the scope of
 objects and methods pertaining to the architectural discipline, reaching
-back to the superimposition of idealist philosophy and socialist
-politics that was pervasive in post-war Italian architectural circles
-[@leach:2007manfredo, 47]. This disciplinary framing understands
+back to the superimposition of Idealist philosophy and socialist
+politics that was pervasive in post-war Italian architectural circles.
+This disciplinary framing understood
 architecture to be not a specific set of objects, real or potential, but
-a process of bringing about change in the urban fabric; conversely,
-history is not envisaged as a coherent narrative to be 'found', but as a
-collection of fragments of which to make sense in a piecemeal fashion
-[@zevi:1974architettura, 55].
+a process of bringing about change in the urban fabric. Conversely,
+history was not envisaged as a coherent narrative to be 'found', but as
+a collection of fragments to make sense of in a piecemeal fashion.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-On top of this common ground, providing a shared understanding of the
-profession's role in the contemporary world, a second level of analysis
-reveals an implicit awareness of the conflicts between historiographic
-critique, ever bent on scattering and reassembling the fragments in
-infinite ways [@tafuri:1977storico, 17], and operative synthesis,
-demanding agreement, if limited and provisional, on reconstructed
-'memories' of the urban process to be acted upon critically
-[@stoppani:2010lhistoire, 220].
+## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Muratori's 'operative history' and Tafuri's 'critical history' both
+looked at the problem of the historical fragment as the starting point
+for a discussion of the built environment in a process of becoming, but
+they looked at it from opposite ends. Muratori took the fragments that
+made up the built environment as instances of *a priori* types, then
+sought to explain the overall coherence of the historic city as an
+outcome of the typological process. To Tafuri, on the other hand, it is
+the nature of the historical process that was given *a priori*: the
+deterministic advance of capitalist technocracy since the early
+Renaissance. The historian's task was then to fit, provisionally, the
+fragments of architecture's increasingly dead body onto an ever-changing
+picture of this advance.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sgg}
+::::::: {.columns}
+::: {.column width=33%}
+![1100](https://i.pinimg.com/originals/d6/25/5a/d6255a35e292df3cf2d4a1bdea992d26.jpg){#fig:sgg1100}
+:::
+::: {.column width=33%}
+![1200](https://i.pinimg.com/originals/cb/70/db/cb70db2abe0a6dc56b79f36ff3d73d9f.jpg){#fig:sgg1200}
+:::
+::: {.column width=33%}
+![1350](https://i.pinimg.com/originals/4b/a3/49/4ba3493434eb1606f072eaa4a885b38d.jpg){#fig:sgg1350}
+:::
+::::::
+
+* * * *
+
+:::::: {.columns}
+::: {.column width=33%}
+![1450](https://i.pinimg.com/originals/e8/17/e4/e817e49f05b8f47653ba4113d078509a.jpg){#fig:sgg1450}
+:::
+::: {.column width=33%}
+![1500](https://i.pinimg.com/originals/0c/22/b6/0c22b624f03afff5fe7ea88938873cd4.jpg){#fig:sgg1500}
+:::
+::: {.column width=33%}
+![1840](https://i.pinimg.com/originals/ec/0f/0e/ec0f0e6766c9d770a699ae08a9c56704.jpg){#fig:sgg1840}
+:::
+::::::
+Saverio Muratori and students from the Istituto Universitario di Architettura di Venezia [(IUAV)]{.smallcaps}, reconstruction of the historical process in the island of San Giovanni Grisostomo, Venice, ca. 1953--1956. Saverio Muratori archives, biblioteca Poletti, Modena
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/91/61/9e/91619eb5c6325ac9d932c146b3605046.png"}
+
+![Saverio Muratori, architect, winning competition entry for the urban development of Barene di San Giuliano, Venice, 1959 (unexecuted)](https://i.pinimg.com/originals/91/61/9e/91619eb5c6325ac9d932c146b3605046.png){#fig:barene .fullwidth}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Muratori's application of 'operative history' was perceived as
+reactionary in his own time, especially in light of his winning
+competition entry for the Barene di San Giuliano urban project in 1959.
+Against this, Tafuri used a Marxist lens predicating a clear-cut
+separation between the production of the built environment and its
+historiographic critique. Ostensibly, this was a plea for an
+architectural history endowed with 'positive skills' to counteract vapid
+theorizing. In practice, it stemmed from his Marxist belief that the
+*practice* of architecture was, by the late twentieth century, well on
+its way to dissolving in the undifferentiated scope of 'planning'.
+Architecture, in Tafuri's view, became the stuff of history much in the
+same way Hegel had proclaimed Art belonged to the past.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/00/2d/6a/002d6a597261bb1a5b0bd8b53bc9b15c.png"}
+
+![Typological process in the base building types of Rome, after Saverio Muratori](https://i.pinimg.com/originals/00/2d/6a/002d6a597261bb1a5b0bd8b53bc9b15c.png){#fig:roma-proc}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/0f/41/7c/0f417c36375c3278865b15da0cec0f72.png"}
+
+![Aldo Rossi and Giovanni Braghieri, architects, design for the San Cataldo cemetery, Modena, 1971](https://i.pinimg.com/originals/0f/41/7c/0f417c36375c3278865b15da0cec0f72.png){#fig:scataldo-dwg .fullwidth}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+The difference between Muratori's and Tafuri's treatment of the
+historical process stemmed from their different philosophies of reality.
+In the Idealist theory developed by Muratori, the historic territory and
+its reconstructed past had real, if not immediately tangible, existence.
+Tafuri's dialectic, on the other hand, handled the 'perpetual critique'
+of historical fragments as a way of exorcizing, so to speak, the very
+existence of a tangible reality. Tafuri's ideal contemporary architect
+was, therefore, perennially locked into this state of crisis: either a
+planner not designer, who would 'accept the transitional (and therefore
+ambiguous) role played nowadays by a dismembered and multifarious
+discipline', or a destroyer of conventional meaning such as the younger
+Aldo Rossi, who took the existing city 'as a mere pretext' and let
+architecture 'hang dangerously in the balance: its reality, never denied
+outright, but mischievously mingled with the unreal'.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/34/1e/19/341e19f4e54c548f99ecf810436948c4.jpg"}
+
+![Aldo Rossi, Città analoga, 1976 version. Photomontage on paper. [Bonnefantemuseum](https://artsandculture.google.com/asset/citta-analoge-aldo-rossi/MwE5jj9G9gjz2A)](https://i.pinimg.com/originals/34/1e/19/341e19f4e54c548f99ecf810436948c4.jpg){#fig:analoga}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png" data-background-size="contain"}
+
+![Gianfranco Caniggia and Gian Luigi Maffei, diachronic mutations in the built fabric, from *Lettura dell'edilizia di base* (1977), pl. 12](https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png){#fig:base .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 The cracks developing from these conflicts become rifts, on a third
-level, between the 'modernist' disciples of Muratori
-[@caniggia:1984introduzione, 12]---among them Gianfranco Caniggia, Gian
-Luigi Maffei, Giancarlo Cataldi, and Giuseppe Strappa---and the
-'traditionalists' [@rosponi:2004new] or 'new classicists'
-[@papadakis:1990new]---such as Pier Carlo Bontempi, Gabriele
+level, between the 'modernist' disciples of Muratori---among them
+Gianfranco Caniggia, Gian Luigi Maffei, Giancarlo Cataldi, and Giuseppe
+Strappa---and the 'traditionalists' or 'new classicists'---such as Pier
+Carlo Bontempi, Gabriele
 Tagliaventi, and Cristiano Rosponi---loosely inspired by the figurative
 character of Rossi's later work. This cleaving of the 'Italian school'
 hinges on the decomposition of the urban 'organism', in the work of
 living practitioners, according to diverging hierarchies of abstract and
-figurative elements [An example of conflicting hierarchies is patent in
-the ancillary role ascribed to construction and detailing in
-@caniggia:1987progetto]. This conflict exposes conceptual weaknesses in
+figurative elements. This conflict exposes conceptual weaknesses in
 the theories supporting typological design, in terms of the choices
 practitioners make when appropriating and making sense of urban
 fragments.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/61/a4/48/61a448583a301b95c492d7c1cb2bce7e.jpg"}
+
+![Aldo Rossi, architect, teatro del Mondo, Venice, 1979](https://i.pinimg.com/originals/61/a4/48/61a448583a301b95c492d7c1cb2bce7e.jpg){#fig:mondo}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg/2560px-Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg"}
+
+![Aldo Rossi, architect, Schützenstraße development, Berlin, 1994--1996. Photo: [Jörg Zägel, 2012](https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg/2560px-Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg){#fig:berlin}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/92/b7/d392b75e38657796c70388b186cdacb1.jpg"}
+
+![Pier Carlo Bontempi, architect, borgo di Santa Costanza, Fornovo di Taro (Parma), 2007](https://i.pinimg.com/originals/d3/92/b7/d392b75e38657796c70388b186cdacb1.jpg){#fig:costanza}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/92/59/a0/9259a08afbbb734abe66d35d94d58aeb.jpg"}
+
+![Léon Krier and Gabriele Tagliaventi, borgo Città Nuova, Alessandria, 1995](https://i.pinimg.com/originals/92/59/a0/9259a08afbbb734abe66d35d94d58aeb.jpg){#fig:aless .fullwidth}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/43/40/21/4340215d31e913d019c869d92ee86af3.jpg"}
+
+![Léon Krier and Gabriele Tagliaventi, architects, borgo Città Nuova, Alessandria, 1995, concept sketch](https://i.pinimg.com/originals/43/40/21/4340215d31e913d019c869d92ee86af3.jpg){#fig:aless-sketch .marginnote}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png"}
+
+![Léon Krier, so-called objects vs nameable objects, in *The Architecture of Community* (1988)](https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png){#fig:uniform}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/7b/8a/a5/7b8aa5fcec6a7f836e1cdffcc5a3ec26.jpg"}
+
+![Gabriele Tagliaventi, architect, îlot Médicis, Val-d'Europe, Marne-la-Vallée, France, 2005](https://i.pinimg.com/originals/7b/8a/a5/7b8aa5fcec6a7f836e1cdffcc5a3ec26.jpg){#fig:medici}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Thus, the analysis turns back for a final look at how critical
 historiography addresses the shortcomings of operativity. By looking at
 the interaction of historical scholarship and design practice in the
-work of architects who combine both activities [See, for example,
-@tagliaventi:2007manuale; @tagliaventi:2000tecniche], the theoretical
+work of architects who combine both activities, the theoretical
 assumptions linking both fields become clear. The typological
 contradictions between the 'historic city' strictly
-defined---preindustrial urbanism [@caniggia:2008lettura, 23]---and the
+defined---preindustrial urbanism---and the
 urban fabric of the late nineteenth and early twentieth centuries
 appears as an unresolved conflict  in the methods and judgements of
-'modernists' from the Muratorian school [@strappa:1989tradizione] and of
-traditionalists alike [@tagliaventi:2006european18].
+'modernists' from the Muratorian school and of
+traditionalists alike.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg"}
+
+![Gianfranco Caniggia and Gian Luigi Maffei, typological process of the courtyard house in Italy](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:corte}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+All three stances, Tafuri's historical critique, Muratori's operative
+history, and Rossi's free-form typology, made relevant points about the
+nature of reality in architecture and its history. In a sense, Tafuri's
+implicit foundational belief that the past does not *exist* in reality
+is true: all we have at hand is the whole of surviving fragments of
+history collapsed onto the present; ascribing some of these fragments to
+'the present' or 'the past' is an operation of memory and critique,
+however ingrained certain attributions must be for any sort of discourse
+to be effective. On the other hand, this collapsed state of all of
+history onto the present is precisely what grants legitimacy to
+Muratori's normative claim that the existing city be the starting point
+of new construction. The role of history is indeed to pull apart this
+collapsed state into discrete images of aspects or moments in a virtual
+reconstruction of time; conversely, the role of design is to synthesize
+this collapsed state by making a fractured accumulation of instances
+whole and imageable at a single point of intervention.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
