@@ -16,7 +16,7 @@ DEFAULTS := defaults.yaml _biblio.bib
 
 # Targets and recipes {{{1
 # ===================
-Palazzo_P.docx : paper.md $(DEFAULTS) reference.docx \
+Palazzo_P.docx : index.md $(DEFAULTS) reference.docx \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	@$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 	@echo "$< > $@."
@@ -25,6 +25,12 @@ Palazzo_P.docx : paper.md $(DEFAULTS) reference.docx \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 	@echo "$< > $@."
+
+_site/%/index.html : %.md revealjs.yaml revealjs-crossref.yaml \
+	| _csl/chicago-author-date.csl _site
+	@mkdir -p $(@D)
+	@$(PANDOC/CROSSREF) -d _spec/revealjs.yaml -o $@ $<
+	@echo "$< > slides."
 
 _csl/%.csl : _csl
 	@cd _csl && git checkout master -- $(@F)

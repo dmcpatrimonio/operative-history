@@ -48,3 +48,4 @@ exclude:
 keep_files:
   - ".git"
   - "reveal.js"
+  - "summary"

@@ -1,8 +1,7 @@
 ---
 title   : "The death and life of 'operative' history"
 subtitle: "Dialogues between historiography and design theory in contemporary Italy"
-date    : "EAHN 2021"
-author  : "Pedro Paulo Palazzo"
+author  : "Pedro P. Palazzo"
 affiliation: >
   Visiting scholar at the Università degli Studi di
   Roma « Tor Vergata » department of Civil and Computer
@@ -66,7 +65,12 @@ description: |
 suppress-bibliography  : true
 reference-section-title: 'References'
 lang                   : en-GB
+title-slide-attributes:
+  data-background-image: "https://i.pinimg.com/originals/94/3b/00/943b0097da73cc9c76655ed0f76ff417.jpg"
+  data-background-size : "cover"
 ---
+
+# Muratori · Rossi · Tafuri #
 
 ## {.unlisted}
 
@@ -100,7 +104,7 @@ either an art historical device or a theory of the architectural
 planning process.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted .green}
+## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nowadays, however, and especially outside Italy, the critical
@@ -133,6 +137,8 @@ typologies of both Muratori and Rossi.
 
 ![Gianfranco Caniggia. Typological analysis plate of the City of Como, 1963](https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png)
 
+# Process and Fragments #
+
 ## {.unlisted}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -155,6 +161,8 @@ a process of bringing about change in the urban fabric. Conversely,
 history was not envisaged as a coherent narrative to be 'found', but as
 a collection of fragments to make sense of in a piecemeal fashion.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Critique and Operativity #
 
 ## {.unlisted}
 
@@ -223,6 +231,8 @@ Architecture, in Tafuri's view, became the stuff of history much in the
 same way Hegel had proclaimed Art belonged to the past.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Typology and Abstraction #
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/00/2d/6a/002d6a597261bb1a5b0bd8b53bc9b15c.png"}
 
 ![Typological process in the base building types of Rome, after Saverio Muratori](https://i.pinimg.com/originals/00/2d/6a/002d6a597261bb1a5b0bd8b53bc9b15c.png){#fig:roma-proc}
@@ -255,6 +265,8 @@ outright, but mischievously mingled with the unreal'.
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png" data-background-size="contain"}
 
 ![Gianfranco Caniggia and Gian Luigi Maffei, diachronic mutations in the built fabric, from *Lettura dell'edilizia di base* (1977), pl. 12](https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png){#fig:base .marginnote}
+
+# Figuration: the New Classicists #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 The cracks developing from these conflicts become rifts, on a third
@@ -295,6 +307,8 @@ fragments.
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png"}
 
 ![Léon Krier, so-called objects vs nameable objects, in *The Architecture of Community* (1988)](https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png){#fig:uniform}
+
+# Operativity in Historical Perspective #
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/7b/8a/a5/7b8aa5fcec6a7f836e1cdffcc5a3ec26.jpg"}
 
