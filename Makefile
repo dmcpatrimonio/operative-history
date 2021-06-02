@@ -10,10 +10,13 @@ vpath reference.% .:_lib
 JEKYLL-VERSION := 4.2.0
 PANDOC-VERSION := 2.14
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
+	-p "4000:4000" -h "0.0.0.0:127.0.0.1" \
 	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
 DEFAULTS := defaults.yaml references.bib
+
+deploy : _site _site/summary/index.html
 
 # Targets and recipes {{{1
 # ===================
@@ -44,10 +47,7 @@ _site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
 
 .PHONY: serve
 serve : | _csl/chicago-fullnote-bibliography-with-ibid.csl
-	@docker run --rm -v "`pwd`:/srv/jekyll" \
-		-p "4000:4000" -h "0.0.0.0:127.0.0.1" \
-		palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION) \
-		jekyll serve
+	@$(JEKYLL/PANDOC) jekyll serve
 
 # Install and cleanup {{{1
 # ===================

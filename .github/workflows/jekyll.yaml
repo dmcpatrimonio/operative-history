@@ -11,7 +11,7 @@ jobs:
         with:
           submodules: "recursive"
       - name: "Build website"
-        run: make _site
+        run: make
       - name: "Upload website"
         uses: actions/upload-artifact@v2
         with:
