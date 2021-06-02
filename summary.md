@@ -67,7 +67,8 @@ reference-section-title: 'References'
 lang                   : en-GB
 title-slide-attributes:
   data-background-image: "https://i.pinimg.com/originals/94/3b/00/943b0097da73cc9c76655ed0f76ff417.jpg"
-  data-background-size : "cover"
+  data-background-color: "#111111"
+  data-background-opacity: "0.3"
 ---
 
 # Muratori · Rossi · Tafuri #
@@ -95,7 +96,13 @@ conflicting positions on the craft of architectural history, its
 relationship to design practice, and the establishment of disciplinary
 parameters for either history or design, set the foundational arguments
 for much of the international debate around these themes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/nemico.jpg" data-background-size="contain"}
+
+![Paolo Portoghesi, "Un nemico dell'architettura: Saverio Muratori o la restaurazione dell'Accademia." *Marcatré* 6--7, 1964, 139--48](https://hcommons.org/app/uploads/sites/1001018/2021/06/nemico.jpg){#fig:marcatre}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 The validity of extracting 'operative' knowledge from history for use in
 architectural and urban practice is one among many debates in which
 these architects engaged. This controversy is
@@ -104,7 +111,9 @@ either an art historical device or a theory of the architectural
 planning process.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png"}
+
+![Gianfranco Caniggia. Typological analysis plate of the City of Como, 1963](https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nowadays, however, and especially outside Italy, the critical
@@ -117,7 +126,11 @@ Rossi, and Tafuri is not only a misrepresentation of their frequent
 engagement with one another's theories; it also obscures the claim put
 forward by each one of them to a systematic representation of and agency
 on the urban environment.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/12/e8/17/12e817dc13eb0f55d7e9e2ab23abb570.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 These claims unfolded throughout their careers and legacies on four
 successive levels I shall develop in this paper. At first, Muratori,
 Rossi, and Tafuri all grappled with the fragmented nature of historical
@@ -133,9 +146,7 @@ look at a few living architects who have carried on the operative
 typologies of both Muratori and Rossi.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png"}
-
-![Gianfranco Caniggia. Typological analysis plate of the City of Como, 1963](https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png)
+![Saverio Muratori, sketch of the territorial unfolding in northern Italy. Modena, Biblioteca Poletti](https://i.pinimg.com/originals/12/e8/17/12e817dc13eb0f55d7e9e2ab23abb570.jpg){#fig:territorio}
 
 # Process and Fragments #
 
@@ -181,10 +192,7 @@ fragments of architecture's increasingly dead body onto an ever-changing
 picture of this advance.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sgg}
-::::::: {.columns}
+:::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sgg .columns}
 ::: {.column width=33%}
 ![1100](https://i.pinimg.com/originals/d6/25/5a/d6255a35e292df3cf2d4a1bdea992d26.jpg){#fig:sgg1100}
 :::
@@ -194,11 +202,15 @@ picture of this advance.
 ::: {.column width=33%}
 ![1350](https://i.pinimg.com/originals/4b/a3/49/4ba3493434eb1606f072eaa4a885b38d.jpg){#fig:sgg1350}
 :::
+Saverio Muratori and students from the Istituto Universitario
+di Architettura di Venezia [(IUAV)]{.smallcaps}, reconstruction of the
+historical process in the island of San Giovanni Grisostomo, Venice, ca.
+1953--1956. Saverio Muratori archives, biblioteca Poletti, Modena
 ::::::
 
 * * * *
 
-:::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sgg2 .columns}
 ::: {.column width=33%}
 ![1450](https://i.pinimg.com/originals/e8/17/e4/e817e49f05b8f47653ba4113d078509a.jpg){#fig:sgg1450}
 :::
@@ -208,8 +220,10 @@ picture of this advance.
 ::: {.column width=33%}
 ![1840](https://i.pinimg.com/originals/ec/0f/0e/ec0f0e6766c9d770a699ae08a9c56704.jpg){#fig:sgg1840}
 :::
-::::::
-Saverio Muratori and students from the Istituto Universitario di Architettura di Venezia [(IUAV)]{.smallcaps}, reconstruction of the historical process in the island of San Giovanni Grisostomo, Venice, ca. 1953--1956. Saverio Muratori archives, biblioteca Poletti, Modena
+Saverio Muratori and students from the Istituto Universitario
+di Architettura di Venezia [(IUAV)]{.smallcaps}, reconstruction of the
+historical process in the island of San Giovanni Grisostomo, Venice, ca.
+1953--1956. Saverio Muratori archives, biblioteca Poletti, Modena
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/91/61/9e/91619eb5c6325ac9d932c146b3605046.png"}
@@ -288,7 +302,7 @@ fragments.
 
 ![Aldo Rossi, architect, teatro del Mondo, Venice, 1979](https://i.pinimg.com/originals/61/a4/48/61a448583a301b95c492d7c1cb2bce7e.jpg){#fig:mondo}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg/2560px-Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/2560px-Berlin_Mitte_Zimmerstrasse_68-69_Quartier_Schuetzenstrasse.jpg"}
 
 ![Aldo Rossi, architect, Schützenstraße development, Berlin, 1994--1996. Photo: [Jörg Zägel, 2012](https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg/2560px-Berlin,_Mitte,_Zimmerstrasse_68-69,_Quartier_Schuetzenstrasse.jpg){#fig:berlin}
 
@@ -300,11 +314,11 @@ fragments.
 
 ![Léon Krier and Gabriele Tagliaventi, borgo Città Nuova, Alessandria, 1995](https://i.pinimg.com/originals/92/59/a0/9259a08afbbb734abe66d35d94d58aeb.jpg){#fig:aless .fullwidth}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/43/40/21/4340215d31e913d019c869d92ee86af3.jpg"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/43/40/21/4340215d31e913d019c869d92ee86af3.jpg" data-background-size="contain"}
 
 ![Léon Krier and Gabriele Tagliaventi, architects, borgo Città Nuova, Alessandria, 1995, concept sketch](https://i.pinimg.com/originals/43/40/21/4340215d31e913d019c869d92ee86af3.jpg){#fig:aless-sketch .marginnote}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png" data-background-size="contain"}
 
 ![Léon Krier, so-called objects vs nameable objects, in *The Architecture of Community* (1988)](https://i.pinimg.com/originals/57/47/a6/5747a67d6e16078476d2003ab43b44e1.png){#fig:uniform}
 
@@ -328,7 +342,7 @@ appears as an unresolved conflict  in the methods and judgements of
 traditionalists alike.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg" data-background-size="contain"}
 
 ![Gianfranco Caniggia and Gian Luigi Maffei, typological process of the courtyard house in Italy](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:corte}
 

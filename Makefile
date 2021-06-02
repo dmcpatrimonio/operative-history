@@ -28,7 +28,7 @@ Palazzo_P.docx : index.md $(DEFAULTS) reference.docx \
 	@echo "$< > $@."
 
 _site/%/index.html : %.md revealjs.yaml revealjs-crossref.yaml \
-	| _csl/chicago-author-date.csl _site
+	| _csl/chicago-author-date.csl
 	@mkdir -p $(@D)
 	@$(PANDOC/CROSSREF) -d _spec/revealjs.yaml -o $@ $<
 	@echo "$< > slides."
