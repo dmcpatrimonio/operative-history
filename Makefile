@@ -1,18 +1,19 @@
 # Global variables and setup {{{1
 # ================
 VPATH = _lib
-vpath %.yaml .:_spec
+vpath %.bib _bibliography
 vpath %.csl .:_csl
+vpath %.yaml .:_spec
 vpath default.% .:_lib
 vpath reference.% .:_lib
 
 JEKYLL-VERSION := 4.2.0
-PANDOC-VERSION := 2.12
+PANDOC-VERSION := 2.14
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
 	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
-DEFAULTS := defaults.yaml _biblio.bib
+DEFAULTS := defaults.yaml references.bib
 
 # Targets and recipes {{{1
 # ===================

@@ -26,7 +26,6 @@ keywords:
   - Manfredo Tafuri
   - Aldo Rossi
 layout                 : page
-suppress-bibliography  : true
 notes-after-punctuation: true
 number-sections        : false
 lang                   : en-GB
