@@ -1,22 +1,23 @@
 # Global variables and setup {{{1
 # ================
 VPATH = _lib
-vpath %.yaml .:_spec
+vpath %.bib _bibliography
 vpath %.csl .:_csl
+vpath %.yaml .:_spec
 vpath default.% .:_lib
 vpath reference.% .:_lib
 
 JEKYLL-VERSION := 4.2.0
-PANDOC-VERSION := 2.12
+PANDOC-VERSION := 2.14
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
 	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
-DEFAULTS := defaults.yaml _biblio.bib
+DEFAULTS := defaults.yaml references.bib
 
 # Targets and recipes {{{1
 # ===================
-Palazzo_P.docx : paper.md $(DEFAULTS) reference.docx \
+Palazzo_P.docx : index.md $(DEFAULTS) reference.docx \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	@$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 	@echo "$< > $@."
@@ -25,6 +26,12 @@ Palazzo_P.docx : paper.md $(DEFAULTS) reference.docx \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 	@echo "$< > $@."
+
+_site/%/index.html : %.md revealjs.yaml revealjs-crossref.yaml \
+	| _csl/chicago-author-date.csl
+	@mkdir -p $(@D)
+	@$(PANDOC/CROSSREF) -d _spec/revealjs.yaml -o $@ $<
+	@echo "$< > slides."
 
 _csl/%.csl : _csl
 	@cd _csl && git checkout master -- $(@F)

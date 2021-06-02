@@ -25,6 +25,7 @@ markdown: Pandoc
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
+    - metadata-file: "_metadata.yaml"
     - section-divs
 plugins:
   - jekyll-coffeescript
@@ -48,3 +49,4 @@ exclude:
 keep_files:
   - ".git"
   - "reveal.js"
+  - "summary"
