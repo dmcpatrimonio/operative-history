@@ -1,1 +1,1 @@
-Sitemap: http://0.0.0.0:4000/operative-history/sitemap.xml
+Sitemap: https://dmcpatrimonio.github.io/operative-history/sitemap.xml
